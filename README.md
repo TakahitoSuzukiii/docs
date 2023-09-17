@@ -1,6 +1,6 @@
 # 自己理解用のドキュメント
 
-## 詳細はWikiを参照
+## 詳細は[Wiki](https://github.com/TakahitoSuzukiii/docs/wiki "TakahitoSuzukiii/docs/wiki")を参照
 
 ### 前提
 - 個人の学習用
