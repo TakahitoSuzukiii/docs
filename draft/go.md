@@ -24,3 +24,8 @@
 ## reflection
 - [reflection](https://go.dev/blog/laws-of-reflection "reflection")
 - [reflect](https://pkg.go.dev/reflect "reflect")
+## conference
+- [2023](https://gocon.jp/2023/ "2023")
+- [2022](https://gocon.jp/2022spring/ja/ "2022")
+- [2021autumn](https://gocon.jp/2021autumn/ "2021autumn")
+- [2021spring](https://gocon.jp/2021spring/ "2021spring")
