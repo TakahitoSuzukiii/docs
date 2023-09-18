@@ -37,3 +37,6 @@
 - [SQLアンチパターンとBtreeインデックスの関連性](https://devblog.thebase.in/entry/2018/12/09/110000 "SQLアンチパターンとBtreeインデックスの関連性")
 ## Redis
 - []( "")
+## NoSQL
+- [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/ "MongoDB Schema Design Best Practices")
+- [Best Practices Guide for MongoDB Performance](https://www.mongodb.com/basics/best-practices "https://www.mongodb.com/basics/best-practices")
