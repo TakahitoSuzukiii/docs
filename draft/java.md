@@ -1,0 +1,2 @@
+## 書籍
+- [Beginning Java EE 6](https://www.amazon.co.jp/Beginning-6-GlassFish-3%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BAJava-Programmers-SELECTION/dp/4798124605 "Beginning Java EE 6")

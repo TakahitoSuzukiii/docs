@@ -1,0 +1,26 @@
+## 言語とフレームワーク
+- [HTML&CSS](https://github.com/TakahitoSuzukiii/docs/wiki/HTML&CSS "HTML&CSS")
+- [JavaScript&Typescript](https://github.com/TakahitoSuzukiii/docs/wiki/JavaScript&Typescript "JavaScript&Typescript")
+- [angular](https://github.com/TakahitoSuzukiii/docs/wiki/angular "angular")
+- [react](https://github.com/TakahitoSuzukiii/docs/wiki/react "react")
+- [flutter](https://github.com/TakahitoSuzukiii/docs/wiki/flutter "flutter")
+- [react native](https://github.com/TakahitoSuzukiii/docs/wiki/react-native "react native")
+- [Go](https://github.com/TakahitoSuzukiii/docs/wiki/Go "Go")
+- [C&CPlus2](https://github.com/TakahitoSuzukiii/docs/wiki/C&CPlus2 "C&CPlus2")
+- [Java](https://github.com/TakahitoSuzukiii/docs/wiki/Java "Java")
+- [python](https://github.com/TakahitoSuzukiii/docs/wiki/python "python")
+## 設計
+- [仕様書](https://github.com/TakahitoSuzukiii/docs/wiki/仕様書 "仕様書")
+- [システム設計](https://github.com/TakahitoSuzukiii/docs/wiki/システム設計 "システム設計")
+- [機能設計](https://github.com/TakahitoSuzukiii/docs/wiki/機能設計 "機能設計")
+- [データベース](https://github.com/TakahitoSuzukiii/docs/wiki/データベース "データベース")
+- [インフラ](https://github.com/TakahitoSuzukiii/docs/wiki/インフラ "インフラ")
+- [テスト](https://github.com/TakahitoSuzukiii/docs/wiki/テスト "テスト")
+## 技術
+- [アルゴリズム](https://github.com/TakahitoSuzukiii/docs/wiki/アルゴリズム "アルゴリズム")
+- [OS&Linux](https://github.com/TakahitoSuzukiii/docs/wiki/OS&Linux "OS&Linux")
+- [自動生成](https://github.com/TakahitoSuzukiii/docs/wiki/自動生成 "自動生成")
+- [技術関連](https://github.com/TakahitoSuzukiii/docs/wiki/技術関連 "技術関連")
+## その他
+- [マネジメント](https://github.com/TakahitoSuzukiii/docs/wiki/マネジメント "マネジメント")
+- [その他](https://github.com/TakahitoSuzukiii/docs/wiki/その他 "その他")
