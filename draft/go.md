@@ -11,6 +11,8 @@
 - [go kit](https://github.com/go-kit/kit "go kit")
 - [web framework](https://pkg.go.dev/github.com/mingrammer/go-web-framework-stars "web framework")
 - [benchmark](https://github.com/smallnest/go-web-framework-benchmark "benchmark")
+- [go-elasticsearch](https://pkg.go.dev/github.com/elastic/go-elasticsearch/v8 "go-elasticsearch")
+- [blevesearch](http://blevesearch.com/ "blevesearch")
 - [Typed-nil](https://qiita.com/zr_tex8r/items/964415e71db0680bfe4e "Typed-nil")
 ## statics analysis
 - [govulncheck](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck "govulncheck")
@@ -21,6 +23,8 @@
 - [bdd ginkgo](https://qiita.com/sky0621/items/10eab1ea349845875ef7 "bdd ginkgo")
 - [bdd ginkgo gomega](https://zenn.dev/zoetro/books/testing-kubernetes-operator/viewer/basics "bdd ginkgo gomega")
 - [gobdd](https://github.com/go-bdd/gobdd "gobdd")
+## docker
+- [CI/CD 設定](https://matsuand.github.io/docs.docker.jp.onthefly/language/golang/configure-ci-cd/ "CI/CD 設定")
 ## reflection
 - [reflection](https://go.dev/blog/laws-of-reflection "reflection")
 - [reflect](https://pkg.go.dev/reflect "reflect")

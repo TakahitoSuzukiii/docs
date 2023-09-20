@@ -1,3 +1,5 @@
+- [Validators and tools](https://www.w3.org/developers/tools/ "Validators and tools")
+- [Markup Validation Service](https://validator.w3.org/#validate_by_uri "Markup Validation Service")
 - [flex](https://developer.mozilla.org/ja/docs/Web/CSS/flex "flex")
 - [grid](https://developer.mozilla.org/ja/docs/Web/CSS/grid "grid")
 - [flex チートシート](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet#flexbox2 "flex チートシート")
