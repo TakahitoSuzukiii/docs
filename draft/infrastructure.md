@@ -6,6 +6,10 @@
 - [Ansible](https://www.redhat.com/ja/topics/automation/learning-ansible-tutorial "Ansible")
 - [Ansible](https://www.scsk.jp/product/oss/tec_guide/ansible/1_ansible1_1.html "Ansible")
 - [Ansibleの使い方](https://zenn.dev/y_mrok/books/ansible-no-tsukaikata "Ansibleの使い方")
+## デージーネット
+- [OSS情報](https://www.designet.co.jp/ossinfo/ "OSS情報")
+## DevOps
+- [2019まとめ](https://qiita.com/poly_soft/items/8dd105341869f93b129c "2019まとめ")
 ## kubernetes
 - [徹底解説](https://zenn.dev/nameless_sn/articles/kubernetes-tutorial "徹底解説")
 - [ツール](https://zenn.dev/tmrekk/articles/580f2e2bb39d5f "ツール")
@@ -13,9 +17,24 @@
 - [エコシステム](https://qiita.com/cvusk/items/100dfb955150ef8964e5 "エコシステム")
 - [ハンズオン](https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d "ハンズオン")
 ## CI / CD
-- [devops](https://qiita.com/poly_soft/items/8dd105341869f93b129c "devops")
-- [circle-ci](https://qiita.com/gold-kou/items/4c7e62434af455e977c2 "circle-ci")
 - [jenkins](https://www.jenkins.io "jenkins")
+- [circle-ci](https://qiita.com/gold-kou/items/4c7e62434af455e977c2 "circle-ci")
+- [GitOps とは? ArgoCD による、Kubernetes への継続的デリバリーを実現しよう](https://circleci.com/ja/blog/gitops-argocd "GitOps とは? ArgoCD による、Kubernetes への継続的デリバリーを実現しよう")
+## GitHubActions
+- [GitHubActions](https://github.co.jp/features/actions "GitHubActions")
+- [【入門】GitHub Actionsとは？](https://www.kagoya.jp/howto/it-glossary/develop/githubactions/ "【入門】GitHub Actionsとは？")
+- [GitHubの新機能「GitHub Actions」で試すCI/CD](https://knowledge.sakura.ad.jp/23478/ "GitHubの新機能「GitHub Actions」で試すCI/CD")
+- [GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス](https://qiita.com/yu-ichiro/items/b50ceb0008edc3c0312e "GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス")
+## ArgoCD
+- [ArgoCD](https://argo-cd.readthedocs.io/en/stable "ArgoCD")
+- [Argo CD導入設計とリリースフロー改善の取り組み](https://techblog.zozo.com/entry/measure-argocd-introduction "Argo CD導入設計とリリースフロー改善の取り組み")
+- [ArgoCD使ってみた](https://zenn.dev/yusekita/articles/7afbee294aa6ce "ArgoCD使ってみた")
+## 監視
+- [Prometheus](https://prometheus.io/ "Prometheus")
+- [Prometheus〜大規模なシステムを監視可能なOSS〜](https://www.designet.co.jp/ossinfo/prometheus/ "Prometheus〜大規模なシステムを監視可能なOSS〜")
+- [今日から始めるPrometheusによるシステム監視](https://knowledge.sakura.ad.jp/27501/ "今日から始めるPrometheusによるシステム監視")
+- [Grafana](https://grafana.com/ "Grafana")
+- [ダッシュボードツールのおすすめOSSでデータを可視化〜Grafana〜](https://www.designet.co.jp/ossinfo/grafana/ "ダッシュボードツールのおすすめOSSでデータを可視化〜Grafana〜")
 ## Gitflow
 - [Gitflow ワークフロー](https://www.atlassian.com/ja/git/tutorials/comparing-workflows/gitflow-workflow "Gitflow ワークフロー")
 - [Git-flowをざっと整理してみた](https://dev.classmethod.jp/articles/introduce-git-flow "Git-flowをざっと整理してみた")

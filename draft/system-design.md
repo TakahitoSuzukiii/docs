@@ -1,5 +1,5 @@
 ## オブジェクト指向
-- [ogis](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html "ogis")
+- [まとめ](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html "まとめ")
 ## ドメイン駆動設計
 - [関連書籍](https://qiita.com/disc99/items/892629cb32ceb7a2988b "関連書籍")
 - [Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html "Martin Fowler")
@@ -11,6 +11,9 @@
 - [ドメイン駆動設計入門](https://www.amazon.co.jp/-/en/%E6%88%90%E7%80%AC-%E5%85%81%E5%AE%A3-ebook/dp/B082WXZVPC/ref=d_reads_cwrtbar_sccl_1_3/357-9139844-7365657?pd_rd_w=OYZ8x&content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&pf_rd_r=QF9RCN4DSJAD494R60ES&pd_rd_wg=GaY3E&pd_rd_r=30be61a0-0766-484e-b849-09968c70d0e2&pd_rd_i=B082WXZVPC&psc=1 "ドメイン駆動設計入門")
 - [ユビキタス言語]( "ユビキタス言語")
 - [境界づけられたコンテキスト]( "境界づけられたコンテキスト")
+- [戦術的DDDをGoで実現する【entity編】](https://tech.yappli.io/entry/2022/07/12/%E6%88%A6%E8%A1%93%E7%9A%84DDD%E3%82%92Go%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%90entity%E7%B7%A8%E3%80%91 "戦術的DDDをGoで実現する【entity編】")
+- [戦術的DDDをGoで実現する【Value Object編】](https://tech.yappli.io/entry/2022/08/19/%E6%88%A6%E8%A1%93%E7%9A%84DDD%E3%82%92Go%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%90Value_Object%E7%B7%A8%E3%80%91 "戦術的DDDをGoで実現する【Value Object編】")
+- [DDDとトランザクションの関係とユースケース層](https://tech.yappli.io/entry/ddd_usecase "DDDとトランザクションの関係とユースケース層")
 - [結果整合性]( "結果整合性")
 ## ユースケース駆動開発
 - [ユースケース駆動開発実践ガイド](https://www.amazon.co.jp/-/en/%E3%83%80%E3%82%B0%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0/dp/4798114456/ref=tmm_other_meta_binding_swatch_0?_encoding=UTF8&qid=1695003000&sr=8-1 "ユースケース駆動開発実践ガイド")
@@ -19,10 +22,12 @@
 - []( "")
 ## イベント駆動設計
 - []( "")
-- ## データ指向設計
+## データ指向設計
 - [DOA]( "DOA")
 - [POA]( "POA")
 - [データ指向アプリケーションデザイン](https://www.amazon.co.jp/-/en/Martin-Kleppmann/dp/4873118700/ref=sr_1_10?crid=9HPKO9VTKGOF&keywords=%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0&qid=1695001175&sprefix=%E3%81%B6%E3%82%93%E3%81%95%E3%82%93%E3%81%97%E3%81%99%E3%81%A6m%2Caps%2C251&sr=8-10 "データ指向アプリケーションデザイン")
+## クラウド アプリケーション アーキテクチャ
+- [ガイド](https://techinfoofmicrosofttech.osscons.jp/index.php?%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%20%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%20%E3%82%AC%E3%82%A4%E3%83%89 "ガイド")
 ## マイクロサービスアーキテクチャ
 - [ソフトウェアアーキテクチャの基礎](https://www.amazon.co.jp/-/en/Mark-Richards/dp/4873119820/ref=sr_1_1?crid=2G6VBIF0A2NDC&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3&qid=1695004038&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%2Caps%2C253&sr=8-1 "ソフトウェアアーキテクチャの基礎")
 - [マイクロサービスパターン](https://www.amazon.co.jp/Chris-Richardson-ebook/dp/B086JJNDKS/ref=sr_1_1_sspa?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 "マイクロサービスパターン")
@@ -38,8 +43,10 @@
 ## オニオンアーキテクチャ
 - []( "")
 ## ヘキサゴナルアーキテクチャ
-- []( "")
-## [web-framework](https://qiita.com/tmknom/items/08b69594e32a92bccee5 "web-framework")
+- [ヘキサゴナルアーキテクチャ(ポートアンドアダプター)とは何か](https://qiita.com/cocoa-maemae/items/b08c4cf95d47e314e2dc "ヘキサゴナルアーキテクチャ(ポートアンドアダプター)とは何か")
+- [Hexagonal Architecture(ヘキサゴナルアーキテクチャ) とは](https://zenn.dev/heyyou/articles/f380adb8d1fe8f "Hexagonal Architecture(ヘキサゴナルアーキテクチャ) とは")
+## Web-Framework
+- [まとめ](https://qiita.com/tmknom/items/08b69594e32a92bccee5 "まとめ")
 ## solid原則
 - [solid](https://qiita.com/baby-degu/items/d058a62f145235a0f007 "solid")
 ## デザインパターン
@@ -49,14 +56,21 @@
 - [デザインパターンの概要とパターンカタログ](https://zenn.dev/tak_uchida/articles/e82ec4918ae353 "デザインパターンの概要とパターンカタログ")
 - [Java言語で学ぶデザインパターン入門](https://www.amazon.co.jp/-/en/%E7%B5%90%E5%9F%8E-%E6%B5%A9/dp/4815609802/ref=d_pd_sbs_sccl_2_1/357-9139844-7365657?pd_rd_w=rRh4e&content-id=amzn1.sym.6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_p=6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_r=0DB500YFTNDP9EH5Y1Q9&pd_rd_wg=JwSf4&pd_rd_r=41276ad5-e958-46e3-9fdf-9e99200b5e0f&pd_rd_i=4815609802&psc=1 "Java言語で学ぶデザインパターン入門")
 - [Head Firstデザインパターン](https://www.amazon.co.jp/-/en/Eric-Freeman/dp/4873119766/ref=d_pd_sbs_sccl_2_3/357-9139844-7365657?pd_rd_w=v47eX&content-id=amzn1.sym.6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_p=6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4873119766&psc=1 "Head Firstデザインパターン")
+- [FactoryMethod](https://www.techscore.com/tech/DesignPattern/FactoryMethod "FactoryMethod")
+- [Observer](https://www.techscore.com/tech/DesignPattern/Observer "Observer")
 ## リファクタリング
 - [リーダブルコード](https://www.amazon.co.jp/-/en/Dustin-Boswell/dp/4873115655/ref=pd_vtp_h_pd_vtp_h_sccl_1/357-9139844-7365657?pd_rd_w=NGF21&content-id=amzn1.sym.a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_p=a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4873115655&psc=1 "リーダブルコード")
 - [達人プログラマー](https://www.amazon.co.jp/-/en/David-Thomas/dp/4274226298/ref=d_pd_sbs_sccl_2_5/357-9139844-7365657?pd_rd_w=v47eX&content-id=amzn1.sym.6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_p=6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4274226298&psc=1 "達人プログラマー")
 - [Code Complete](https://www.amazon.co.jp/-/en/Steve-McConnell-ebook/dp/B01E5DYK1C/ref=sr_1_1?crid=2RL68II10IKVD&keywords=code+complete&qid=1695004299&sprefix=code+complete%2Caps%2C223&sr=8-1 "Code Complete")
 ## API
 - [API設計](https://qiita.com/KNR109/items/d3b6aa8803c62238d990 "API設計")
-- [REST]( "REST")
-- [gRPC]( "gRPC")
-- [GraphQL]( "GraphQL")
+- [WebAPI](https://techinfoofmicrosofttech.osscons.jp/index.php?WebAPI "WebAPI")
+- [Representational State Transfer](https://ja.wikipedia.org/wiki/Representational_State_Transfer "Representational State Transfer")
+- [Protocol Buffers wiki](https://ja.wikipedia.org/wiki/Protocol_Buffers "Protocol Buffers wiki")
+- [Protocol Buffers](https://protobuf.dev/ "Protocol Buffers")
+- [gRPC](https://grpc.io/docs/what-is-grpc/introduction/ "gRPC")
+- [GraphQL](https://graphql.org/learn/ "GraphQL")
+- [swagger](https://swagger.io/ "swagger")
+- [JWT](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html#Overview "JWT")
 - [Webを支える技術](https://www.amazon.co.jp/-/en/%E5%B1%B1%E6%9C%AC-%E9%99%BD%E5%B9%B3/dp/4774142042/ref=d_pd_sbs_sccl_2_6/357-9139844-7365657?pd_rd_w=v47eX&content-id=amzn1.sym.6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_p=6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4774142042&psc=1 "Webを支える技術")
 - [Web API: The Good Parts](https://www.amazon.co.jp/-/en/%E6%B0%B4%E9%87%8E-%E8%B2%B4%E6%98%8E/dp/4873116864/ref=d_pd_sbs_sccl_2_5/357-9139844-7365657?pd_rd_w=sKsHB&content-id=amzn1.sym.6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_p=6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_r=QKCWQFZ9V0E8FB3YYKFT&pd_rd_wg=uGZrA&pd_rd_r=4a3d71ca-ec33-4d68-8c42-bd70d925433e&pd_rd_i=4873116864&psc=1 "Web API: The Good Parts")
