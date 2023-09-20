@@ -2,6 +2,7 @@
 - [原理・原則](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63 "原理・原則")
 ## 命名規則
 - [命名規則](https://qiita.com/rokumura7/items/cb6302102f5805996ef9 "命名規則")
+- [Google Style Guides](https://google.github.io/styleguide/ "Google Style Guides")
 ## Material Design
 - [Material Design](https://m3.material.io "Material Design")
 - [icons](https://fonts.google.com/icons?icon.platform=web&icon.style=Outlined "icons")
