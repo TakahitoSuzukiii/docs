@@ -22,6 +22,7 @@
 - [GitOps とは? ArgoCD による、Kubernetes への継続的デリバリーを実現しよう](https://circleci.com/ja/blog/gitops-argocd "GitOps とは? ArgoCD による、Kubernetes への継続的デリバリーを実現しよう")
 ## GitHubActions
 - [GitHubActions](https://github.co.jp/features/actions "GitHubActions")
+- [GitHub Actionsを使ったマイクロサービスのCI/CDモジュール管理](https://lab.mo-t.com/blog/gha-microservice-cicd "GitHub Actionsを使ったマイクロサービスのCI/CDモジュール管理")
 - [【入門】GitHub Actionsとは？](https://www.kagoya.jp/howto/it-glossary/develop/githubactions/ "【入門】GitHub Actionsとは？")
 - [GitHubの新機能「GitHub Actions」で試すCI/CD](https://knowledge.sakura.ad.jp/23478/ "GitHubの新機能「GitHub Actions」で試すCI/CD")
 - [GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス](https://qiita.com/yu-ichiro/items/b50ceb0008edc3c0312e "GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス")
