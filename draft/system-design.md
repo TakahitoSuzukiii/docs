@@ -40,6 +40,7 @@
 ## クリーンアーキテクチャ
 - [実装クリーンアーキテクチャ](https://qiita.com/nrslib/items/a5f902c4defc83bd46b8 "実装クリーンアーキテクチャ")
 - [Clean Architecture](https://www.amazon.co.jp/-/en/Robert-C-Martin/dp/4048930656/ref=pd_vtp_h_pd_vtp_h_sccl_5/357-9139844-7365657?pd_rd_w=NGF21&content-id=amzn1.sym.a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_p=a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4048930656&psc=1 "Clean Architecture")
+- [ミラティブのサーバサイドをGo + Clean Architectureに再設計した話](https://tech.mirrativ.stream/entry/2020/11/30/142354 "ミラティブのサーバサイドをGo + Clean Architectureに再設計した話")
 ## オニオンアーキテクチャ
 - []( "")
 ## ヘキサゴナルアーキテクチャ

@@ -35,8 +35,12 @@
 - [Bツリー](https://use-the-index-luke.com/ja/sql/anatomy/the-tree "Bツリー")
 - [B-treeインデックス入門](https://qiita.com/kiyodori/items/f66a545a47dc59dd8839 "B-treeインデックス入門")
 - [SQLアンチパターンとBtreeインデックスの関連性](https://devblog.thebase.in/entry/2018/12/09/110000 "SQLアンチパターンとBtreeインデックスの関連性")
+- [MySQL外部キー制約とインデックスに必要な知識](https://tech.layerx.co.jp/entry/2022/01/31/093141 "MySQL外部キー制約とインデックスに必要な知識")
 ## Redis
 - []( "")
 ## NoSQL
 - [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/ "MongoDB Schema Design Best Practices")
 - [Best Practices Guide for MongoDB Performance](https://www.mongodb.com/basics/best-practices "https://www.mongodb.com/basics/best-practices")
+## N+1 問題
+- [Node.js で DataLoader を使って GraphQL の N+1 問題を解決する](https://tech.layerx.co.jp/entry/2022/06/13/120000 "Node.js で DataLoader を使って GraphQL の N+1 問題を解決する")
+- [N+1問題を解決するgqlgen+dataloaderの実装方法とCacheの実装オプション](https://tech.layerx.co.jp/entry/2022/06/13/120000 "N+1問題を解決するgqlgen+dataloaderの実装方法とCacheの実装オプション")

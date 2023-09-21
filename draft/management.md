@@ -28,6 +28,7 @@
 ## スクラムフレームワーク
 - [SAFe](https://www.atlassian.com/ja/agile/agile-at-scale/what-is-safe "SAFe")
 - [LeSS](https://www.atlassian.com/ja/agile/agile-at-scale/less "LeSS")
+- [LeSS Huge を参考にしたスクラムのスケーリング](https://tech.mirrativ.stream/entry/2023/05/23/100000 "LeSS Huge を参考にしたスクラムのスケーリング")
 #### LeSS Large-Scale Scrum
 複数のスクラムチームが同じプロダクトを開発する
 #### SAFe
