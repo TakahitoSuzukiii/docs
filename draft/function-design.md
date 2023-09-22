@@ -14,11 +14,14 @@
 - [認可のアーキテクチャに関する考察](https://zenn.dev/she_techblog/articles/6eff1f28d107be "認可のアーキテクチャに関する考察")
 - [uuac](https://inria.hal.science/hal-01534764/document "uuac")
 - [uuac](https://inria.hal.science/hal-01284863/document "uuac")
+- [freee の権限管理基盤マイクロサービスの今を語ろう！](https://developers.freee.co.jp/entry/authorization-management-microservice "freee の権限管理基盤マイクロサービスの今を語ろう！")
 ## 決済機能
 - [外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022](https://dev.classmethod.jp/articles/devio2022-vulnerable-points-and-countermeasures-for-using-external-payment-services/ "外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022")
 - [外部決済サービスを利用した開発の反省と改善 #devio2021](https://dev.classmethod.jp/articles/devio2021-introspection-and-improvement-of-development-with-external-payment-services/ "外部決済サービスを利用した開発の反省と改善 #devio2021")
 - [「ECサイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020](https://dev.classmethod.jp/articles/developers-io-2020-connect-day5-payment-development-flow-with-e-commerce-site/ "「ECサイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020")
 - [ハイヤールーの決済基盤開発において考慮したこと](https://hireroo.io/journal/tech/thinking-about-payment-service-in-hireroo "ハイヤールーの決済基盤開発において考慮したこと")
+## stripe
+- [overview](https://stripe.com/docs/payments/payment-methods/overview?locale=ja-JP "overview")
 ## リアルタイム通信
 - [双方向通信プロトコルまとめ](https://qiita.com/theFirstPenguin/items/55dd1daa9313f6b90e2f "双方向通信プロトコルまとめ")
 - [リアルタイム通信](https://www.ibm.com/docs/ja/was-liberty/zos?topic=overview-real-time-communications "リアルタイム通信")
@@ -38,7 +41,8 @@
 - [全文検索エンジン「Elasticsearch」の概要とprismatixでの活用事例 #devio2022](https://dev.classmethod.jp/articles/devio2022-elasticsearch-prismatix/ "全文検索エンジン「Elasticsearch」の概要とprismatixでの活用事例 #devio2022")
 - [全文検索SaaSのAlgoliaを使って、DynamoDBのデータを柔軟に検索する](https://dev.classmethod.jp/articles/algolia-dynamodb-search/ "全文検索SaaSのAlgoliaを使って、DynamoDBのデータを柔軟に検索する")
 ## 機械学習
-- []( "")
+## 給与計算
+- [ドメインや仕様が複雑な開発をうまくすすめるためにやったこと](https://developers.freee.co.jp/entry/how-to-develop-complex-doamains "ドメインや仕様が複雑な開発をうまくすすめるためにやったこと")
 ## セキュリティ
 - [Security](https://developer.mozilla.org/en-US/docs/Web/Security "Security")
 ## 管理者機能
