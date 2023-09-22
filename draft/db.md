@@ -42,13 +42,28 @@
 ## Aurora
 - [Aurora PostgreSQLでテーブルパーティショニングを導入した話 【検討編】](https://lab.mo-t.com/blog/introduce-table-partitioning-in-aurora-postgres "Aurora PostgreSQLでテーブルパーティショニングを導入した話 【検討編】")
 - [Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】](https://lab.mo-t.com/blog/introduce-table-partitioning-in-aurora-postgres-practice "Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】")
-## Redis
-- []( "")
-## MemoCashed
-- []( "")
 ## NoSQL
 - [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/ "MongoDB Schema Design Best Practices")
 - [Best Practices Guide for MongoDB Performance](https://www.mongodb.com/basics/best-practices "https://www.mongodb.com/basics/best-practices")
 ## N+1 問題
 - [Node.js で DataLoader を使って GraphQL の N+1 問題を解決する](https://tech.layerx.co.jp/entry/2022/06/13/120000 "Node.js で DataLoader を使って GraphQL の N+1 問題を解決する")
 - [N+1問題を解決するgqlgen+dataloaderの実装方法とCacheの実装オプション](https://tech.layerx.co.jp/entry/2022/06/13/120000 "N+1問題を解決するgqlgen+dataloaderの実装方法とCacheの実装オプション")
+## MongoDB
+- [wiki](https://ja.wikipedia.org/wiki/MongoDB "wiki")
+- [home](https://www.mongodb.com/ja-jp "home")
+- [quickstart](https://www.mongodb.com/blog/channel/quickstart "quickstart")
+- [Comparing DynamoDB and MongoDB](https://www.mongodb.com/compare/mongodb-dynamodb "Comparing DynamoDB and MongoDB")
+## DynnamoDB
+- [DynamoDB](https://aws.amazon.com/jp/dynamodb/ "DynamoDB")
+- [DynamoDB 用の NoSQL](https://docs.aws.amazon.com/ja_jp/amazondynamodb/latest/developerguide/bp-general-nosql-design.html "DynamoDB 用の NoSQL")
+- [The 7 Critical Differences Between DynamoDB vs MongoDB](https://www.integrate.io/blog/dynamodb-vs-mongodb-differences/ "The 7 Critical Differences Between DynamoDB vs MongoDB")
+## Memcached
+- [Memcached](https://aws.amazon.com/jp/memcached/ "Memcached")
+## Redis
+- [Redis](https://aws.amazon.com/jp/redis/ "Redis")
+## ElastiCache
+- [Amazon ElastiCache for Memcached](https://aws.amazon.com/jp/elasticache/memcached/ "Amazon ElastiCache for Memcached")
+- [Amazon ElastiCache for Redis](https://aws.amazon.com/jp/elasticache/redis/ "Amazon ElastiCache for Redis")
+- [Redis-vs-Memcached](https://aws.amazon.com/jp/elasticache/redis-vs-memcached/ "Redis-vs-Memcached")
+## ElasticSearch
+- [Elasticsearch](https://aws.amazon.com/jp/what-is/elasticsearch/ "Elasticsearch")
