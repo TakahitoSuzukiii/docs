@@ -7,6 +7,7 @@
 - [Typed-nil](https://qiita.com/zr_tex8r/items/964415e71db0680bfe4e "Typed-nil")
 ## Library
 - [standard library](https://pkg.go.dev/std "standard library")
+- [Awesome Go](https://github.com/avelino/awesome-go#awesome-go "Awesome Go")
 - [Mirrativ のバックエンドで使っているGoライブラリを紹介する！](https://tech.mirrativ.stream/entry/2022/11/29/120730 "Mirrativ のバックエンドで使っているGoライブラリを紹介する！")
 ## Cloud Service FrameWorks
 - [cloud service](https://go.dev/solutions/cloud "cloud service")

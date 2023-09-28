@@ -13,6 +13,7 @@
 - [索引:記号とキーワード](https://typescriptbook.jp/symbols-and-keywords "索引:記号とキーワード")
 - [判別可能なユニオン型](https://typescriptbook.jp/reference/values-types-variables/discriminated-union "判別可能なユニオン型")
 - [インターセクション型](https://typescriptbook.jp/reference/values-types-variables/intersection "インターセクション型")
+- [型ガード](https://typescript-jp.gitbook.io/deep-dive/type-system/typeguard "型ガード")
 - [公称型と構造的部分型](https://typescriptbook.jp/reference/values-types-variables/structural-subtyping "公称型と構造的部分型")
 - [Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html "Generics")
 - [Keyof](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html "Keyof")

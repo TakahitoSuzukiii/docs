@@ -10,7 +10,7 @@
 - [Java](https://github.com/TakahitoSuzukiii/docs/wiki/Java "Java")
 - [Python](https://github.com/TakahitoSuzukiii/docs/wiki/Python "Python")
 ## 設計
-- [仕様](https://github.com/TakahitoSuzukiii/docs/wiki/仕様 "仕様")
+- [仕様&規約](https://github.com/TakahitoSuzukiii/docs/wiki/仕様&規約 "仕様&規約")
 - [システム設計](https://github.com/TakahitoSuzukiii/docs/wiki/システム設計 "システム設計")
 - [機能設計](https://github.com/TakahitoSuzukiii/docs/wiki/機能設計 "機能設計")
 - [データベース](https://github.com/TakahitoSuzukiii/docs/wiki/データベース "データベース")
@@ -21,6 +21,7 @@
 - [OS&Linux](https://github.com/TakahitoSuzukiii/docs/wiki/OS&Linux "OS&Linux")
 - [自動生成](https://github.com/TakahitoSuzukiii/docs/wiki/自動生成 "自動生成")
 - [技術関連](https://github.com/TakahitoSuzukiii/docs/wiki/技術関連 "技術関連")
+- [ツール](https://github.com/TakahitoSuzukiii/docs/wiki/ツール "ツール")
 ## その他
 - [マネジメント](https://github.com/TakahitoSuzukiii/docs/wiki/マネジメント "マネジメント")
 - [その他](https://github.com/TakahitoSuzukiii/docs/wiki/その他 "その他")

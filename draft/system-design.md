@@ -26,6 +26,7 @@
 - [DOA]( "DOA")
 - [POA]( "POA")
 - [データ指向アプリケーションデザイン](https://www.amazon.co.jp/-/en/Martin-Kleppmann/dp/4873118700/ref=sr_1_10?crid=9HPKO9VTKGOF&keywords=%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0&qid=1695001175&sprefix=%E3%81%B6%E3%82%93%E3%81%95%E3%82%93%E3%81%97%E3%81%99%E3%81%A6m%2Caps%2C251&sr=8-10 "データ指向アプリケーションデザイン")
+- [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design "設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選")
 ## クラウド アプリケーション アーキテクチャ
 - [ガイド](https://techinfoofmicrosofttech.osscons.jp/index.php?%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%20%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%20%E3%82%AC%E3%82%A4%E3%83%89 "ガイド")
 ## マイクロサービスアーキテクチャ
