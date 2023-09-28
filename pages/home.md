@@ -1,3 +1,5 @@
+## Awesome
+- [Awesome](https://github.com/sindresorhus/awesome#contents "Awesome")
 ## 原理・原則
 - [原理・原則](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63 "原理・原則")
 ## 命名規則
