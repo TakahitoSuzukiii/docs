@@ -1,12 +1,12 @@
+## アーキテクチャ選定
+- [アーキテクチャ決定記録 (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record#architecture-decision-record-adr "アーキテクチャ決定記録 (ADR)")
+- [フルスタック ソフトウェアの設計とアーキテクチャのロードマップ](https://github.com/stemmlerjs/software-design-and-architecture-roadmap#the-full-stack-software-design-and-architecture-roadmap "フルスタック ソフトウェアの設計とアーキテクチャのロードマップ")
 ## 仕様書
 - [GoogleのDesign Docsから学ぶソフトウェア設計](https://qiita.com/yoshii0110/items/32f93e0c8d24cb3207f7 "GoogleのDesign Docsから学ぶソフトウェア設計")
 - [Design Doc超入門](https://atmarkit.itmedia.co.jp/ait/articles/1606/21/news016.html "Design Doc超入門")
 ## コーディング規約
 ## OSS
 - [freee OSSポリシーを策定します](https://developers.freee.co.jp/entry/freee-oss-policy "freee OSSポリシーを策定します")
-## アーキテクチャ選定
-- [アーキテクチャ決定記録 (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record#architecture-decision-record-adr "アーキテクチャ決定記録 (ADR)")
-- [フルスタック ソフトウェアの設計とアーキテクチャのロードマップ](https://github.com/stemmlerjs/software-design-and-architecture-roadmap#the-full-stack-software-design-and-architecture-roadmap "フルスタック ソフトウェアの設計とアーキテクチャのロードマップ")
 ## ブログ
 - [レガシー社内システムをGAE/Goでリプレースした軌跡](https://technote.qualiarts.jp/article/20 "レガシー社内システムをGAE/Goでリプレースした軌跡")
 ## 書籍

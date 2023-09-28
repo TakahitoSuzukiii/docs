@@ -1,7 +1,7 @@
 ## ソフトウェアアーキテクチャ
 - [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design "設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選")
-- [Awesome Software Architecture github](https://github.com/simskij/awesome-software-architecture#awesome-software-architecture "Awesome Software Architecture github")
 - [Awesome Software Architecture](https://awesome-architecture.com/ "Awesome Software Architecture")
+- [Awesome Software Architecture github](https://github.com/simskij/awesome-software-architecture#awesome-software-architecture "Awesome Software Architecture github")
 - [Awesome Software Architecture2](https://github.com/mehdihadeli/awesome-software-architecture#---awesome-software-architecture------------------ "Awesome Software Architecture2")
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns#awesome-software-and-architectural-design-patterns "Awesome Software and Architectural Design Patterns")
 - [design patterns](https://github.com/kamranahmedse/design-patterns-for-humans#readme "design patterns")
@@ -20,8 +20,6 @@
 ## マイクロサービスアーキテクチャ
 - [ソフトウェアアーキテクチャの基礎](https://www.amazon.co.jp/-/en/Mark-Richards/dp/4873119820/ref=sr_1_1?crid=2G6VBIF0A2NDC&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3&qid=1695004038&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%2Caps%2C253&sr=8-1 "ソフトウェアアーキテクチャの基礎")
 - [マイクロサービスパターン](https://www.amazon.co.jp/Chris-Richardson-ebook/dp/B086JJNDKS/ref=sr_1_1_sspa?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 "マイクロサービスパターン")
-## サーバーレス
-- [Awesome Serverless](https://github.com/pmuens/awesome-serverless#awesome-serverless- "Awesome Serverless")
 ## マイクロフロントエンド
 - [マイクロフロントエンド](https://www.amazon.co.jp/-/en/Luca-Mezzalira/dp/4814400020/ref=sr_1_11?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-11 "マイクロフロントエンド")
 
