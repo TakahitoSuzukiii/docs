@@ -1,3 +1,5 @@
+## Awesome
+- [Awesome Python](https://github.com/vinta/awesome-python#awesome-python- "Awesome Python")
 ## Python
 - [Python](https://www.python.org/ "Python")
 - [docs](https://docs.python.org/3/ "docs")

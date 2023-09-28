@@ -15,6 +15,7 @@
 - [classmethod](https://dev.classmethod.jp "classmethod")
 - [serverworks](https://blog.serverworks.co.jp "serverworks")
 ## チートシート
+- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets#readme "Awesome Cheatsheets")
 - [チートシート](https://qiita.com/KNR109/items/a6b3216552bee53b1724#markdown%E8%A8%98%E6%B3%95-%E3%83%81%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%88 "チートシート")
 ## 標準規格
 - [標準規格](https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards "標準規格")

@@ -1,5 +1,4 @@
-## ソフトウェアアーキテクチャ
-- [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design "設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選")
+## Awesome
 - [Awesome Software Architecture](https://awesome-architecture.com/ "Awesome Software Architecture")
 - [Awesome Software Architecture github](https://github.com/simskij/awesome-software-architecture#awesome-software-architecture "Awesome Software Architecture github")
 - [Awesome Software Architecture2](https://github.com/mehdihadeli/awesome-software-architecture#---awesome-software-architecture------------------ "Awesome Software Architecture2")
@@ -7,8 +6,14 @@
 - [design patterns](https://github.com/kamranahmedse/design-patterns-for-humans#readme "design patterns")
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices#awesome-microservices- "Awesome Microservices")
 - [Awesome Serverless](https://github.com/pmuens/awesome-serverless#awesome-serverless- "Awesome Serverless")
+- [Awesome System Design](https://github.com/madd86/awesome-system-design#readme "Awesome System Design")
+- [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd#awesome-domain-driven-design- "Awesome Domain-Driven Design")
+- [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives#awesome-open-source-alternatives-to-saas "Awesome open-source alternatives to SaaS")
+- [Awesome ReverseEngineering](https://github.com/alphaSeclab/awesome-reverse-engineering#%E6%89%80%E6%9C%89%E6%94%B6%E9%9B%86%E7%B1%BB%E9%A1%B9%E7%9B%AE "Awesome ReverseEngineering")
 ## オープンソースの代替手段
 - [opensourcealternative](https://www.opensourcealternative.to/ "opensourcealternative")
+## ソフトウェアアーキテクチャ
+- [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design "設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選")
 ## オブジェクト指向
 - [まとめ](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html "まとめ")
 ## Web-Framework
@@ -22,7 +27,6 @@
 - [マイクロサービスパターン](https://www.amazon.co.jp/Chris-Richardson-ebook/dp/B086JJNDKS/ref=sr_1_1_sspa?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 "マイクロサービスパターン")
 ## マイクロフロントエンド
 - [マイクロフロントエンド](https://www.amazon.co.jp/-/en/Luca-Mezzalira/dp/4814400020/ref=sr_1_11?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-11 "マイクロフロントエンド")
-
 ## クリーンアーキテクチャ
 - [実装クリーンアーキテクチャ](https://qiita.com/nrslib/items/a5f902c4defc83bd46b8 "実装クリーンアーキテクチャ")
 - [Clean Architecture](https://www.amazon.co.jp/-/en/Robert-C-Martin/dp/4048930656/ref=pd_vtp_h_pd_vtp_h_sccl_5/357-9139844-7365657?pd_rd_w=NGF21&content-id=amzn1.sym.a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_p=a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4048930656&psc=1 "Clean Architecture")

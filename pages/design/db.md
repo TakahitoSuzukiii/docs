@@ -1,5 +1,11 @@
-## Scalability
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#readme "awesome-scalability")
+## Awesome
+- [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql#awesome-mysql "Awesome MySQL")
+- [MySQL リソース百科事典中国語版](https://github.com/jobbole/awesome-mysql-cn#mysql-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88 "MySQL リソース百科事典中国語版")
+- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#awesome-postgres- "Awesome Postgres")
+- [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb#awesome-mongodb- "Awesome MongoDB")
+- [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb#awesome-dynamodb- "Awesome DynamoDB")
+- [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch#awesome-elasticsearch "Awesome Elasticsearch")
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability#readme "Awesome Scalability")
 ## RDB
 - [プログラマのためのSQL](https://www.amazon.co.jp/-/en/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%AB%E3%82%B3/dp/4798128023/ref=d_pd_sbs_sccl_2_14/357-9139844-7365657?pd_rd_w=sKsHB&content-id=amzn1.sym.6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_p=6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_r=QKCWQFZ9V0E8FB3YYKFT&pd_rd_wg=uGZrA&pd_rd_r=4a3d71ca-ec33-4d68-8c42-bd70d925433e&pd_rd_i=4798128023&psc=1 "プログラマのためのSQL")
 - [達人に学ぶDB設計](https://www.amazon.co.jp/-/en/%E3%83%9F%E3%83%83%E3%82%AF/dp/4798124702/ref=pd_vtp_h_pd_vtp_h_sccl_10/357-9139844-7365657?pd_rd_w=NGF21&content-id=amzn1.sym.a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_p=a075abab-259f-40c3-bc0f-76d5f3149ef5&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4798124702&psc=1 "達人に学ぶDB設計")

@@ -1,3 +1,5 @@
+## Awesome
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter#readme "Awesome Flutter")
 ## Flutter
 - [flutter](https://flutter.dev/ "flutter")
 - [docs](https://docs.flutter.dev/ "docs")

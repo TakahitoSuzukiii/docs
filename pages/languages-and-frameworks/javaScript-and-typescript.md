@@ -1,3 +1,7 @@
+## Awesome
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#awesome-javascript- "Awesome JavaScript")
+- [Awesome TypeScript](https://github.com/dzharii/awesome-typescript#awesome-typescript "Awesome TypeScript")
+- [Awesome TypeScript2](https://github.com/semlinker/awesome-typescript "Awesome TypeScript2")
 ## JavaScript
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
 - [Client-side_JavaScript_frameworks](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks "Client-side_JavaScript_frameworks")

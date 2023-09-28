@@ -1,3 +1,9 @@
+## Awesome
+- [Awesome OS](https://github.com/jubalh/awesome-os#awesome-operating-system-stuff "Awesome OS")
+- [Awesome Linux](https://github.com/inputsh/awesome-linux#readme "Awesome Linux")
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software#awesome-linux-software "Awesome Linux Software")
+- [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers#awesome-linux-containers "Awesome Linux Containers")
+- [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL#awesome-wsl---windows-subsystem-for-linux "Awesome WSL")
 ## 書籍
 - [Linuxシステムの仕組み](https://www.amazon.co.jp/-/en/Brian-Ward-ebook/dp/B09TDYLWM8/ref=sr_1_10?crid=Q4NB0BR7S36C&keywords=LINUX&qid=1694975049&sprefix=linu%2Caps%2C275&sr=8-10 "Linuxシステムの仕組み")
 - [コンピュータアーキテクチャ](https://www.amazon.co.jp/-/en/%E6%9C%A8%E6%9D%91-%E5%84%AA%E4%B9%8B-ebook/dp/B0B4RRZ795/ref=sr_1_1?crid=2TBF70UNXTL5J&keywords=%E4%BD%9C%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3&qid=1694975013&sprefix=%E4%BD%9C%E3%81%A3%E3%81%A6%E5%AD%A6%E3%81%B6%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%2Caps%2C225&sr=8-1 "コンピュータアーキテクチャ")
