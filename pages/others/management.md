@@ -1,3 +1,5 @@
+## Awesome
+- [Awesome Agile](https://github.com/lorabv/awesome-agile#awesome-agile- "Awesome Agile")
 ## アジャイル
 - [アジャイル宣言](https://agilemanifesto.org/iso/ja/principles.html "アジャイル宣言")
 - [大規模アジャイル](https://www.atlassian.com/ja/agile/agile-at-scale "大規模アジャイル")

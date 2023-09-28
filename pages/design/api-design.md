@@ -1,3 +1,9 @@
+## Awesome
+- [Awesome API](https://github.com/Kikobeats/awesome-api#awesome-api-- "Awesome API")
+- [HTTP API Development Tools](https://github.com/yosriady/awesome-api-devtools#http-api-development-tools "HTTP API Development Tools")
+- [Awesome REST](https://github.com/marmelab/awesome-rest#awesome-rest- "Awesome REST")
+- [awesome-apisec](https://github.com/arainho/awesome-api-security#readme "awesome-apisec")
+- [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping#awesome-web-scraping "Awesome Web Scraping")
 ## 基本
 - [API設計まとめ](https://qiita.com/KNR109/items/d3b6aa8803c62238d990 "API設計まとめ")
 - [WebAPI](https://techinfoofmicrosofttech.osscons.jp/index.php?WebAPI "WebAPI")

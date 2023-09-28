@@ -7,14 +7,12 @@
 ## コンテンツ
 ### [Home](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/home.md "Home")
 ### [言語とフレームワーク](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks "言語とフレームワーク")
-#### フロントエンド
 - [HTML-and-CSS](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/html-css.md "HTML-and-CSS")
 - [Javascript-and-Typescript](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/javaScript-and-typescript.md "Javascript-and-Typescript")
 - [Angular](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/angular.md "Angular")
 - [React](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/react.md "React")
 - [Flutter](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/flutter.md "Flutter")
 - [ReactNative](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/flutter.md "ReactNative")
-#### バックエンド
 - [Go](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/go.md "Go")
 - [Python](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/python.md "Python")
 - [Java](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/java.md "Java")

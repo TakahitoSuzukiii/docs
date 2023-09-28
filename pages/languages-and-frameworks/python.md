@@ -6,5 +6,5 @@
 - [PythonJp](https://www.python.jp/ "PythonJp")
 - [Django](https://docs.djangoproject.com/ja/4.2/intro/install/ "Django")
 - [FastAPI](https://fastapi.tiangolo.com/ja/ "FastAPI")
-## Library
-- [Awesome Python](https://github.com/vinta/awesome-python#awesome-python- "Awesome Python")
+## Best Practice
+- [Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python#readme "Best-of Web Development with Python")
