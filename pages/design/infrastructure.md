@@ -1,5 +1,4 @@
 ## Awesome
-- [Awesome Secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#readme "Awesome Secret knowledge")
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker#awesome-docker-- "Awesome Docker")
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#awesome-kubernetes "Awesome Kubernetes")
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin#awesome-sysadmin "Awesome Sysadmin")
