@@ -12,7 +12,7 @@
 - [Angular](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/angular.md "Angular")
 - [React](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/react.md "React")
 - [Flutter](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/flutter.md "Flutter")
-- [ReactNative](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/flutter.md "ReactNative")
+- [ReactNative](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/reactnative.md "ReactNative")
 - [Go](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/go.md "Go")
 - [Python](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/python.md "Python")
 - [Java](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/languages-and-frameworks/java.md "Java")
