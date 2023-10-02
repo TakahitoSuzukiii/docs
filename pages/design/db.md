@@ -27,6 +27,8 @@
 - [ファントムリード]( "ファントムリード")
 - [ダーティーリード]( "ダーティーリード")
 ## MySql
+- [mysqldumpslow — スロークエリーログファイルの集計](https://dev.mysql.com/doc/refman/8.0/ja/mysqldumpslow.html "mysqldumpslow — スロークエリーログファイルの集計")
+- [スロークエリの確認方法](https://ptune.jp/tech/how-to-check-mysql-slow-query/ "スロークエリの確認方法")
 - [チートシート](https://quickref.me/mysql.html "チートシート")
 - [explain](https://dev.mysql.com/doc/refman/8.0/ja/explain.html "explain")
 - [mysqlexplain](http://nippondanji.blogspot.com/2009/03/mysqlexplain.html "mysqlexplain")
