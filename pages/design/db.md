@@ -1,4 +1,5 @@
 ## Awesome
+- [Awesome DB](https://github.com/numetriclabz/awesome-db#awesome---db- "Awesome DB")
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability#readme "Awesome Scalability")
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql#awesome-mysql "Awesome MySQL")
 - [MySQL リソース百科事典中国語版](https://github.com/jobbole/awesome-mysql-cn#mysql-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88 "MySQL リソース百科事典中国語版")
