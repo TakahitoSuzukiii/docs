@@ -1,4 +1,5 @@
 ## Awesome
+- [Awesome Sourcerer Libraries](https://github.com/sourcerer-io/awesome-libraries#sourcerer-libraries "Awesome Sourcerer Libraries")
 - [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing#awesome-technical-writing "Awesome Technical Writing")
 - [アーキテクチャ決定記録 (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record#architecture-decision-record-adr "アーキテクチャ決定記録 (ADR)")
 - [フルスタック ソフトウェアの設計とアーキテクチャのロードマップ](https://github.com/stemmlerjs/software-design-and-architecture-roadmap#the-full-stack-software-design-and-architecture-roadmap "フルスタック ソフトウェアの設計とアーキテクチャのロードマップ")

@@ -1,4 +1,5 @@
 ## Awesome
+- [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#awesome-quality-assurance-roadmap- "Awesome Quality Assurance Roadmap")
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing#awesome-testing-- "Awesome Testing")
 - [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#awesome-visual-regression-testing- "Awesome Visual Regression Testing")
 - [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation "Awesome Test Automation")

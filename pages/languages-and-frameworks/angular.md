@@ -1,5 +1,6 @@
 ## Awesome
 - [Awesome Angular](https://github.com/PatrickJS/awesome-angular#awesome-angular-- "Awesome Angular")
+- [Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components "Angular 2+ Components & Libraries")
 ## Angular
 - [docs](https://angular.io/docs "docs")
 - [components](https://material.angular.io/components/categories "components")
