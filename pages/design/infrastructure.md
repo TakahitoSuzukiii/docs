@@ -11,9 +11,6 @@
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps#ultimate-devsecops-library "Ultimate DevSecOps library")
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops#awesome-mlops-- "Awesome MLOps")
 - [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre#awesome-site-reliability-engineering-- "Awesome Site Reliability Engineering")
-- [Awesome AWS](https://github.com/donnemartin/awesome-aws#awesome-aws- "Awesome AWS")
-- [Awesome AWS ECS](https://github.com/nathanpeck/awesome-ecs#readme "Awesome AWS ECS")
-- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme "Awesome AWS Amplify")
 - [Awesome CDK](https://github.com/kalaiser/awesome-cdk#awesome-cdk-- "Awesome CDK")
 - [Awesome Nginx](https://github.com/agile6v/awesome-nginx#awesome-nginx-- "Awesome Nginx")
 - [Awesome Apache Spark](https://github.com/awesome-spark/awesome-spark#awesome-spark- "Awesome Apache Spark")
@@ -40,12 +37,6 @@
 - [jenkins](https://www.jenkins.io "jenkins")
 - [circle-ci](https://qiita.com/gold-kou/items/4c7e62434af455e977c2 "circle-ci")
 - [GitOps とは? ArgoCD による、Kubernetes への継続的デリバリーを実現しよう](https://circleci.com/ja/blog/gitops-argocd "GitOps とは? ArgoCD による、Kubernetes への継続的デリバリーを実現しよう")
-## GitHubActions
-- [GitHubActions](https://github.co.jp/features/actions "GitHubActions")
-- [GitHub Actionsを使ったマイクロサービスのCI/CDモジュール管理](https://lab.mo-t.com/blog/gha-microservice-cicd "GitHub Actionsを使ったマイクロサービスのCI/CDモジュール管理")
-- [【入門】GitHub Actionsとは？](https://www.kagoya.jp/howto/it-glossary/develop/githubactions/ "【入門】GitHub Actionsとは？")
-- [GitHubの新機能「GitHub Actions」で試すCI/CD](https://knowledge.sakura.ad.jp/23478/ "GitHubの新機能「GitHub Actions」で試すCI/CD")
-- [GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス](https://qiita.com/yu-ichiro/items/b50ceb0008edc3c0312e "GitHub Actionsって何？触ってみて理解しよう！入門・逆引きリファレンス")
 ## ArgoCD
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable "ArgoCD")
 - [Argo CD導入設計とリリースフロー改善の取り組み](https://techblog.zozo.com/entry/measure-argocd-introduction "Argo CD導入設計とリリースフロー改善の取り組み")
@@ -59,18 +50,6 @@
 - [Datadog]( "Datadog")
 - [Sentry]( "Sentry")
 - [Mackerel]( "Mackerel")
-## GithubOrganization
-- [Github Organizationおすすめ初期設定](https://tech.cm-group.co.jp/posts/github-organization "Github Organizationおすすめ初期設定")
-## Gitflow
-- [Gitflow ワークフロー](https://www.atlassian.com/ja/git/tutorials/comparing-workflows/gitflow-workflow "Gitflow ワークフロー")
-- [Git-flowをざっと整理してみた](https://dev.classmethod.jp/articles/introduce-git-flow "Git-flowをざっと整理してみた")
-## AWS
-- [AWS再入門2022](https://dev.classmethod.jp/referencecat/aws-re-introduction-2020-2 "AWS再入門2022")
-- [CloudFormation入門](https://dev.classmethod.jp/articles/sainyumon-cloudformation/ "CloudFormation入門")
-- [AWS CDK ベストプラクティス](https://aws.amazon.com/jp/blogs/news/best-practices-for-developing-cloud-applications-with-aws-cdk "AWS CDK ベストプラクティス")
-## ssh
-- [.ssh config](https://penpen-dev.com/blog/userknownhostsfile-stricthostkeychecking ".ssh config")
-- [command](https://zenn.dev/ymmmtym/articles/useful-ssh-config-and-command "command")
 ## 書籍
 - [Effective DevOps](https://www.amazon.co.jp/-/en/Jennifer-Davis/dp/4873118352/ref=sr_1_6?crid=314I3VHGZ2KNM&keywords=devops&qid=1695001131&sprefix=devops%2Caps%2C252&sr=8-6 "Effective DevOps")
 - [システム運用アンチパターン](https://www.amazon.co.jp/-/en/Jeffery-D-Smith/dp/4873119847/ref=sr_1_8?crid=314I3VHGZ2KNM&keywords=devops&qid=1695001131&sprefix=devops%2Caps%2C252&sr=8-8 "システム運用アンチパターン")
