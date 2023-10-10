@@ -5,6 +5,7 @@
 - [セッションストレージ]( "セッションストレージ")
 ## ローカライゼイション
 ## ページネーション
+- [シーク法を使ったアクセス](https://use-the-index-luke.com/ja/sql/partial-results/fetch-next-page#fig07_03 "シーク法を使ったアクセス")
 - [カーソルページネーションを実装した話](https://lab.mo-t.com/blog/cursor-pagination-implementation "カーソルページネーションを実装した話")
 ## セッション管理
 - [認証]( "認証")
