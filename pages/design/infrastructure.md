@@ -6,6 +6,7 @@
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin#awesome-sysadmin "Awesome Sysadmin")
 - [Awesome French Devops](https://github.com/stephrobert/awesome-french-devops#awesome-french-devops- "Awesome French Devops")
 - [Awesome CI](https://github.com/ligurio/awesome-ci#list-of-continuous-integration-services "Awesome CI")
+- [Awesome Actions](https://github.com/sdras/awesome-actions#awesome-actions-- "Awesome Actions")
 - [Awesome Prometheus](https://github.com/roaldnefs/awesome-prometheus#awesome-prometheus-- "Awesome Prometheus")
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps#ultimate-devsecops-library "Ultimate DevSecOps library")
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops#awesome-mlops-- "Awesome MLOps")
@@ -21,7 +22,7 @@
 - [コンテナ・デザイン・パターン](https://qiita.com/MahoTakara/items/03fc0afe29379026c1f3 "コンテナ・デザイン・パターン")
 - [Kubernetesで学ぶ分散システムデザインパターン](https://qiita.com/reireias/items/85bcd0acc7f6982041c4 "Kubernetesで学ぶ分散システムデザインパターン")
 - [分散システムデザインパターン](https://ntsk.jp/blog/designing-distributed-systems "分散システムデザインパターン")
-## ansible
+## Ansible
 - [Ansible](https://www.redhat.com/ja/topics/automation/learning-ansible-tutorial "Ansible")
 - [Ansible](https://www.scsk.jp/product/oss/tec_guide/ansible/1_ansible1_1.html "Ansible")
 - [Ansibleの使い方](https://zenn.dev/y_mrok/books/ansible-no-tsukaikata "Ansibleの使い方")

@@ -2,6 +2,7 @@
 - [Awesome Engineering Management](https://github.com/engineering-management/awesome-engineering-management#readme "Awesome Engineering Management")
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme "Awesome Engineering Team Management")
 - [Awesome Agile](https://github.com/lorabv/awesome-agile#awesome-agile- "Awesome Agile")
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job#awesome-remote-job-- "Awesome Remote Job")
 ## アジャイル
 - [アジャイル宣言](https://agilemanifesto.org/iso/ja/principles.html "アジャイル宣言")
 - [大規模アジャイル](https://www.atlassian.com/ja/agile/agile-at-scale "大規模アジャイル")

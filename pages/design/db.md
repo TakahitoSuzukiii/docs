@@ -24,14 +24,7 @@
 - [CORS](https://developer.mozilla.org/ja/docs/Web/HTTP/CORS "CORS")
 ## トランザクション
 - [分散トランザクション](https://www.ogis-ri.co.jp/otc/hiroba/technical/DTP "分散トランザクション")
-- [ファントムリード]( "ファントムリード")
-- [ダーティーリード]( "ダーティーリード")
 ## MySql
-- [mysqldumpslow — スロークエリーログファイルの集計](https://dev.mysql.com/doc/refman/8.0/ja/mysqldumpslow.html "mysqldumpslow — スロークエリーログファイルの集計")
-- [スロークエリの確認方法](https://ptune.jp/tech/how-to-check-mysql-slow-query/ "スロークエリの確認方法")
-- [チートシート](https://quickref.me/mysql.html "チートシート")
-- [explain](https://dev.mysql.com/doc/refman/8.0/ja/explain.html "explain")
-- [mysqlexplain](http://nippondanji.blogspot.com/2009/03/mysqlexplain.html "mysqlexplain")
 - [8.0](http://nippondanji.blogspot.com/2018/05/mysql-80.html "8.0")
 - [難しさ](http://nippondanji.blogspot.com/2013/12/db.html "難しさ")
 - [高速 10選](http://nippondanji.blogspot.com/2009/02/mysql10.html "い高速 10選いい")
@@ -41,6 +34,19 @@
 - [sort](http://nippondanji.blogspot.com/2008/12/2008.html "sort")
 - [limit](http://nippondanji.blogspot.com/2009/05/mysql.html "limit")
 - [temptable](http://nippondanji.blogspot.com/2018/06/temptable.html "temptable")
+### スロークエリログ
+- [チートシート](https://quickref.me/mysql.html "チートシート")
+- [スロークエリーログを使って遅いクエリを収集する](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0007 "スロークエリーログを使って遅いクエリを収集する")
+- [Mysql slow queryの設定と解析方法](https://masayuki14.hatenablog.com/entry/20120704/1341360260 "Mysql slow queryの設定と解析方法")
+- [スロークエリの確認方法：MySQL編](https://ptune.jp/tech/how-to-check-mysql-slow-query/ "スロークエリの確認方法：MySQL編")
+- [mysqldumpslow — スロークエリーログファイルの要約](https://dev.mysql.com/doc/refman/8.0/ja/mysqldumpslow.html#option_mysqldumpslow_sort "mysqldumpslow — スロークエリーログファイルの要約")
+- [スロークエリログ](https://dev.mysql.com/doc/refman/8.0/en/slow-query-log.html "スロークエリログ")
+### EXPLAIN
+- [mysqlexplain](http://nippondanji.blogspot.com/2009/03/mysqlexplain.html "mysqlexplain")
+- [EXPLAIN](https://dev.mysql.com/doc/refman/8.0/ja/explain.html "EXPLAIN")
+### PROFILE
+- [SHOW PROFILE](https://dev.mysql.com/doc/refman/8.0/ja/show-profile.html "SHOW PROFILE")
+- [パフォーマンススキーマを使用したクエリープロファイリング](https://dev.mysql.com/doc/refman/8.0/ja/performance-schema-query-profiling.html "パフォーマンススキーマを使用したクエリープロファイリング")
 ##  Null
 - [Go言語を使ってDBテーブルのNULL許可のカラムを扱う](https://zenn.dev/voicy/articles/9a7793c4818a60 "Go言語を使ってDBテーブルのNULL許可のカラムを扱う")
 - [MySQL で sql.NullString なあいつを JSON に Marshalling する](https://okamuuu.hatenablog.com/entry/2016/12/20/150339 "MySQL で sql.NullString なあいつを JSON に Marshalling する")
