@@ -24,6 +24,8 @@
 - [CORS](https://developer.mozilla.org/ja/docs/Web/HTTP/CORS "CORS")
 ## トランザクション
 - [分散トランザクション](https://www.ogis-ri.co.jp/otc/hiroba/technical/DTP "分散トランザクション")
+## SQLアンチパターン
+- [SQLアンチパターン簡単まとめ](https://zenn.dev/yukito0616/articles/00ccc30b58e458 "SQLアンチパターン簡単まとめ")
 ## MySql
 - [チートシート](https://quickref.me/mysql.html "チートシート")
 ### 漢のコンピュータ道

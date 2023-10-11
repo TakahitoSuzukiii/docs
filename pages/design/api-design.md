@@ -22,6 +22,7 @@
 - [gRPC](https://grpc.io/docs/what-is-grpc/introduction/ "gRPC")
 ## GraphQL
 - [GraphQL](https://graphql.org/learn/ "GraphQL")
+- [GraphQLはいつ使うか、RESTとの比較](https://zenn.dev/saboyutaka/articles/e5515872871534 "GraphQLはいつ使うか、RESTとの比較")
 ## OpenApi
 - [swagger](https://swagger.io/ "swagger")
 ## JWT
