@@ -49,13 +49,15 @@
 - [EXPLAIN](https://dev.mysql.com/doc/refman/8.0/ja/explain.html "EXPLAIN")
 - [実行計画の処理](https://use-the-index-luke.com/ja/sql/explain-plan/mysql/operations "実行計画の処理")
 - [DBMSと実行計画](https://qiita.com/hot_study_man/items/dd4beab6a2bed6f4f382 "DBMSと実行計画")
-##  インデックス
+## インデックス
 - [use-the-index-luke](https://use-the-index-luke.com/ja "use-the-index-luke")
 - [Bツリーの走査](https://use-the-index-luke.com/ja/sql/anatomy/the-tree#TreeTraversal "Bツリーの走査")
 - [インデックスの作り過ぎ](https://use-the-index-luke.com/ja/sql/where-clause/functions/over-indexing "インデックスの作り過ぎ")
 - [B-treeインデックス入門](https://qiita.com/kiyodori/items/f66a545a47dc59dd8839 "B-treeインデックス入門")
 - [SQLアンチパターンとBtreeインデックスの関連性](https://devblog.thebase.in/entry/2018/12/09/110000 "SQLアンチパターンとBtreeインデックスの関連性")
 - [MySQL外部キー制約とインデックスに必要な知識](https://tech.layerx.co.jp/entry/2022/01/31/093141 "MySQL外部キー制約とインデックスに必要な知識")
+## インデックスとパフォーマンス（offsetとlimitやページネーション）
+- [シーク法を使ったアクセス](https://use-the-index-luke.com/ja/sql/partial-results/fetch-next-page#fig07_03 "シーク法を使ったアクセス")
 ### PROFILE
 - [SHOW PROFILE](https://dev.mysql.com/doc/refman/8.0/ja/show-profile.html "SHOW PROFILE")
 - [パフォーマンススキーマを使用したクエリープロファイリング](https://dev.mysql.com/doc/refman/8.0/ja/performance-schema-query-profiling.html "パフォーマンススキーマを使用したクエリープロファイリング")
