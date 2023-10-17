@@ -2,6 +2,7 @@
 - [Awesome API](https://github.com/Kikobeats/awesome-api#awesome-api-- "Awesome API")
 - [HTTP API Development Tools](https://github.com/yosriady/awesome-api-devtools#http-api-development-tools "HTTP API Development Tools")
 - [Awesome REST](https://github.com/marmelab/awesome-rest#awesome-rest- "Awesome REST")
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql#awesome-graphql- "awesome-graphql")
 - [awesome-apisec](https://github.com/arainho/awesome-api-security#readme "awesome-apisec")
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping#awesome-web-scraping "Awesome Web Scraping")
 ## 基本

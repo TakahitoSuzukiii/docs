@@ -4,6 +4,7 @@
 ## 原理・原則
 - [原理・原則](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63 "原理・原則")
 ## 命名規則
+- [Awesome Naming](https://github.com/gruhn/awesome-naming#awesome-naming- "Awesome Naming")
 - [命名規則](https://qiita.com/rokumura7/items/cb6302102f5805996ef9 "命名規則")
 - [Google Style Guides](https://google.github.io/styleguide/ "Google Style Guides")
 ## Material Design

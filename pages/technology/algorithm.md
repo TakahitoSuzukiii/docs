@@ -1,6 +1,7 @@
 ## Awesome
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision "Awesome Computer Vision")
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#awesome-algorithms "Awesome Algorithms")
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme "Papers We Love")
 ## アルゴリズム
 - [algorithm](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0 "algorithm")
 - [ランダウの記号](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%82%A6%E3%81%AE%E8%A8%98%E5%8F%B7 "ランダウの記号")
