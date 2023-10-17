@@ -20,6 +20,10 @@
 - [まとめ](https://qiita.com/tmknom/items/08b69594e32a92bccee5 "まとめ")
 ## solid原則
 - [solid](https://qiita.com/baby-degu/items/d058a62f145235a0f007 "solid")
+## Twelve-Factor App
+- [Twelve-Factor App](https://12factor.net/ja/ "Twelve-Factor App")
+- [モダンなWebアプリのあるべき姿 The Twelve-Factor Appとは?](https://developers.kddi.com/blog/2pcE20cmzJwt2wwov1QN5X "モダンなWebアプリのあるべき姿 The Twelve-Factor Appとは?")
+- [Twelve-Factor Appを読み解いていく](https://zenn.dev/yoshii0110/articles/e3676332eb18ac#%E6%A6%82%E8%A6%81 "Twelve-Factor Appを読み解いていく")
 ## クラウド アプリケーション アーキテクチャ
 - [ガイド](https://techinfoofmicrosofttech.osscons.jp/index.php?%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%20%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%20%E3%82%AC%E3%82%A4%E3%83%89 "ガイド")
 ## マイクロサービスアーキテクチャ
@@ -45,6 +49,9 @@
 - [Head Firstデザインパターン](https://www.amazon.co.jp/-/en/Eric-Freeman/dp/4873119766/ref=d_pd_sbs_sccl_2_3/357-9139844-7365657?pd_rd_w=v47eX&content-id=amzn1.sym.6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_p=6f7d7560-7f29-4b9a-abcd-4e6c06534ee6&pf_rd_r=XQNQ0PG51Y00Q946E9EJ&pd_rd_wg=QbJJN&pd_rd_r=ea3fba52-3324-471f-9e1b-f80007acff10&pd_rd_i=4873119766&psc=1 "Head Firstデザインパターン")
 - [FactoryMethod](https://www.techscore.com/tech/DesignPattern/FactoryMethod "FactoryMethod")
 - [Observer](https://www.techscore.com/tech/DesignPattern/Observer "Observer")
+- [すごいよ、サーキットブレーカー！ 〜 マイクロサービスアーキテクチャの設計パターン 〜](https://fujiyamaegg.com/tech-microservices-circuitbreaker/ "すごいよ、サーキットブレーカー！ 〜 マイクロサービスアーキテクチャの設計パターン 〜")
+- [サーキットブレーカーとは](https://techblog.zozo.com/entry/zozotown-istio-circuit-breaker "サーキットブレーカーとは")
+- [AWS Step Functionsにサーキットブレーカーパターンを組み込んでみた](https://dev.classmethod.jp/articles/aws-step-functions-circuit-breaker-pattern/ "AWS Step Functionsにサーキットブレーカーパターンを組み込んでみた")
 ## ドメイン駆動設計
 - [関連書籍](https://qiita.com/disc99/items/892629cb32ceb7a2988b "関連書籍")
 - [Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html "Martin Fowler")
