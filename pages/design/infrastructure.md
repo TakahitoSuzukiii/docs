@@ -47,9 +47,9 @@
 - [今日から始めるPrometheusによるシステム監視](https://knowledge.sakura.ad.jp/27501/ "今日から始めるPrometheusによるシステム監視")
 - [Grafana](https://grafana.com/ "Grafana")
 - [ダッシュボードツールのおすすめOSSでデータを可視化〜Grafana〜](https://www.designet.co.jp/ossinfo/grafana/ "ダッシュボードツールのおすすめOSSでデータを可視化〜Grafana〜")
-- [Datadog]( "Datadog")
-- [Sentry]( "Sentry")
-- [Mackerel]( "Mackerel")
+- [Datadog](https://docs.datadoghq.com/ja/ "Datadog")
+- [Sentry](https://docs.sentry.io/?utm_source=google&utm_medium=cpc&utm_id={20403208976}&utm_campaign=Google_Search_Brand_SentryKW_ROW_Alpha&utm_content=g&utm_term=sentry "Sentry")
+- [Mackerel](https://ja.mackerel.io/ "Mackerel")
 ## 書籍
 - [Effective DevOps](https://www.amazon.co.jp/-/en/Jennifer-Davis/dp/4873118352/ref=sr_1_6?crid=314I3VHGZ2KNM&keywords=devops&qid=1695001131&sprefix=devops%2Caps%2C252&sr=8-6 "Effective DevOps")
 - [システム運用アンチパターン](https://www.amazon.co.jp/-/en/Jeffery-D-Smith/dp/4873119847/ref=sr_1_8?crid=314I3VHGZ2KNM&keywords=devops&qid=1695001131&sprefix=devops%2Caps%2C252&sr=8-8 "システム運用アンチパターン")

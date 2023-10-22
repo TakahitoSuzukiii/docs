@@ -16,6 +16,9 @@
 - [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design "設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選")
 ## オブジェクト指向
 - [まとめ](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html "まとめ")
+> 継承
+> カプセル化
+> ポリモーフィズム
 ## Web-Framework
 - [まとめ](https://qiita.com/tmknom/items/08b69594e32a92bccee5 "まとめ")
 ## solid原則
