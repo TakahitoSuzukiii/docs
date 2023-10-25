@@ -8,6 +8,8 @@
 - [NP完全問題](https://ja.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8%E5%95%8F%E9%A1%8C "NP完全問題")
 - [ヒューリスティクス](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF "ヒューリスティクス")
 - [遺伝的アルゴリズム]( "遺伝的アルゴリズム")
+- [アルゴリズムクイックリファレンス](https://www.oreilly.co.jp/books/9784873117850/ "アルゴリズムクイックリファレンス")
+- [入門 データ構造とアルゴリズム](https://www.oreilly.co.jp/books/9784873116341/ "入門 データ構造とアルゴリズム")
 ## RDBと木構造
 - [入れ子集合モデル](https://gihyo.jp/dev/serial/01/sql_academy2/000501 "入れ子集合モデル")
 ## ハッシュ関数
@@ -17,6 +19,10 @@
 - [完全ハッシュ関数](https://ja.wikipedia.org/wiki/%E8%A1%9D%E7%AA%81_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6) "完全ハッシュ関数")
 ## ソート
 - []( "")
+## Meta Programming
+- [メタプログラミング](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 "メタプログラミング")
+- [Fluent Python](https://www.oreilly.co.jp/books/9784873118178/ "Fluent Python")
+- [Fluent Python 2e example code](https://github.com/fluentpython/example-code-2e "Fluent Python 2e example code")
 ## 統計
 - []( "")
 ## 確率論
