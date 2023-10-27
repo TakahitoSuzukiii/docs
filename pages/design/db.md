@@ -22,9 +22,24 @@
 - [CQRS Journey](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10) "CQRS Journey")
 - [CQRS 完全に理解した](https://zenn.dev/shmi593/articles/c1baeb2d453929 "CQRS 完全に理解した")
 - [CQSとCQRSの違い](https://qiita.com/hirodragon/items/6281df80661401f48731 "CQSとCQRSの違い")
+## CORS
 - [CORS](https://developer.mozilla.org/ja/docs/Web/HTTP/CORS "CORS")
+## ACID特性
+- [ACID](https://ja.wikipedia.org/wiki/ACID_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E7%A7%91%E5%AD%A6) "ACID")
+- [トランザクション処理 - ACID特性やPythonでの実装例 -](https://zenn.dev/yutabeee/articles/66eeff0ac1de36 "トランザクション処理 - ACID特性やPythonでの実装例 -")
 ## トランザクション
 - [分散トランザクション](https://www.ogis-ri.co.jp/otc/hiroba/technical/DTP "分散トランザクション")
+## レプリケーション
+- [構成可能なレプリケーションのトポロジを3つ。](https://nippondanji.blogspot.com/2011/04/mysql-dba273.html "構成可能なレプリケーションのトポロジを3つ。")
+- [6. READ COMMITTED分離レベルを使う。おまけ： Sharding](https://nippondanji.blogspot.com/2009/03/mysql7.html "6. READ COMMITTED分離レベルを使う。おまけ： Sharding")
+- [構成可能なレプリケーションのトポロジ](https://www.slideshare.net/nippondanji/art-of-mysql-replication-4824469 "構成可能なレプリケーションのトポロジ")
+### 実現可能
+> マスター・スレーブ（1:N）
+> マルチ・マスター
+> カスケード（スレーブにさらにスレーブ）
+### 不可
+> マルチソース
+- [トランザクション分離レベル VS リード現象 対応表](https://qiita.com/momotaro98/items/ad859ec2934ee98540fb#%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%86%E9%9B%A2%E3%83%AC%E3%83%99%E3%83%AB-vs-%E3%83%AA%E3%83%BC%E3%83%89%E7%8F%BE%E8%B1%A1-%E5%AF%BE%E5%BF%9C%E8%A1%A8 "トランザクション分離レベル VS リード現象 対応表")
 ## SQLアンチパターン
 - [SQLアンチパターン簡単まとめ](https://zenn.dev/yukito0616/articles/00ccc30b58e458 "SQLアンチパターン簡単まとめ")
 ## MySql
@@ -66,6 +81,7 @@
 - [Go言語を使ってDBテーブルのNULL許可のカラムを扱う](https://zenn.dev/voicy/articles/9a7793c4818a60 "Go言語を使ってDBテーブルのNULL許可のカラムを扱う")
 - [MySQL で sql.NullString なあいつを JSON に Marshalling する](https://okamuuu.hatenablog.com/entry/2016/12/20/150339 "MySQL で sql.NullString なあいつを JSON に Marshalling する")
 ## Aurora
+- [Amazon Aurora の特徴](https://aws.amazon.com/jp/rds/aurora/features/ "Amazon Aurora の特徴")
 - [Aurora PostgreSQLでテーブルパーティショニングを導入した話 【検討編】](https://lab.mo-t.com/blog/introduce-table-partitioning-in-aurora-postgres "Aurora PostgreSQLでテーブルパーティショニングを導入した話 【検討編】")
 - [Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】](https://lab.mo-t.com/blog/introduce-table-partitioning-in-aurora-postgres-practice "Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】")
 ## NoSQL

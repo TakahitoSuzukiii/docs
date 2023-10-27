@@ -5,22 +5,27 @@
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql#awesome-graphql- "awesome-graphql")
 - [awesome-apisec](https://github.com/arainho/awesome-api-security#readme "awesome-apisec")
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping#awesome-web-scraping "Awesome Web Scraping")
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist#api-security-checklist "API Security Checklist")
 ## 基本
 - [API設計まとめ](https://qiita.com/KNR109/items/d3b6aa8803c62238d990 "API設計まとめ")
 - [WebAPI](https://techinfoofmicrosofttech.osscons.jp/index.php?WebAPI "WebAPI")
-## Awesome API
-- [Awesome API](https://github.com/Kikobeats/awesome-api#awesome-api-- "Awesome API")
-- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist#api-security-checklist "API Security Checklist")
-## Public APIs
+## Public
 - [Public APIs](https://github.com/public-apis/public-apis#public-apis "Public APIs")
 ## REST
 - [Representational State Transfer](https://ja.wikipedia.org/wiki/Representational_State_Transfer "Representational State Transfer")
+## gRPC
+- [gRPC](https://grpc.io/docs/what-is-grpc/introduction/ "gRPC")
+- [gRPC](https://knowledge.sakura.ad.jp/24059/ "gRPC")
+> 異なるマシン上で動作するサービス間で情報をやり取りする手法。Googleが自社サービス向けに開発して使用していたものをオープンソース化した技術
+> 特定の言語やプラットフォームに依存しないように設計
+> Protocol BuffersはGoogleが開発したデータフォーマットで、バイナリデータを含むデータでも効率的に扱える
+- [gRPCと従来のREST APIの比較](https://www.integrate.io/jp/blog/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis-ja/ "gRPCと従来のREST APIの比較")
+- [gRPC と REST の違いはなんですか?](https://aws.amazon.com/jp/compare/the-difference-between-grpc-and-rest/ "gRPC と REST の違いはなんですか?")
+- [gRPC API には、4 種類のサービス メソッド](https://www.xlsoft.com/jp/blog/blog/2022/05/25/post-29393-post-29393/ "gRPC API には、4 種類のサービス メソッド")
 ## Protocol Buffers
 - [Protocol Buffers](https://protobuf.dev/ "Protocol Buffers")
 - [Protocol Buffers wiki](https://ja.wikipedia.org/wiki/Protocol_Buffers "Protocol Buffers wiki")
 - [gPRCとProtocol Buffers (PB)](https://lab.mo-t.com/blog/protocol-buffers "gPRCとProtocol Buffers (PB)")
-## gRPC
-- [gRPC](https://grpc.io/docs/what-is-grpc/introduction/ "gRPC")
 ## GraphQL
 - [GraphQL](https://graphql.org/learn/ "GraphQL")
 - [GraphQLはいつ使うか、RESTとの比較](https://zenn.dev/saboyutaka/articles/e5515872871534 "GraphQLはいつ使うか、RESTとの比較")

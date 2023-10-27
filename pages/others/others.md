@@ -1,3 +1,10 @@
+## 自己啓発
+### 7つの習慣
+- [7つの習慣](https://ja.wikipedia.org/wiki/7%E3%81%A4%E3%81%AE%E7%BF%92%E6%85%A3 "7つの習慣")
+- [【まとめ】『7つの習慣』を要約！成功者が実践する習慣](https://souken.shikigaku.jp/5259/#%E7%AC%AC1%E3%81%AE%E7%BF%92%E6%85%A3%EF%BC%9A%E4%B8%BB%E4%BD%93%E7%9A%84%E3%81%A7%E3%81%82%E3%82%8B "【まとめ】『7つの習慣』を要約！成功者が実践する習慣")
+### オーダーシップ
+- [オーナーシップ](https://mba.globis.ac.jp/about_mba/glossary/detail-19693.html#:~:text=%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%81%A8%E3%81%AF%E3%80%81%E5%80%8B%E4%BA%BA,%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%85%8B%E3%81%A8%E3%82%82%E3%81%84%E3%81%88%E3%82%8B%E3%80%82 "オーナーシップ")
+- [オーナーシップ（Ownership）とは？【意味をわかりやすく】](https://www.kaonavi.jp/dictionary/ownership/ "オーナーシップ（Ownership）とは？【意味をわかりやすく】")
 ## 技術面接
 - [技術面接ハンドブック](https://github.com/yangshun/tech-interview-handbook#readme "技術面接ハンドブック")
 - [ソフトウェア エンジニアの面接: 準備する必要があるものすべて](https://www.techinterviewhandbook.org/software-engineering-interview-guide/ "ソフトウェア エンジニアの面接: 準備する必要があるものすべて")
