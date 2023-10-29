@@ -2,12 +2,14 @@
 - [Awesome API](https://github.com/Kikobeats/awesome-api#awesome-api-- "Awesome API")
 - [HTTP API Development Tools](https://github.com/yosriady/awesome-api-devtools#http-api-development-tools "HTTP API Development Tools")
 - [Awesome REST](https://github.com/marmelab/awesome-rest#awesome-rest- "Awesome REST")
-- [awesome-graphql](https://github.com/chentsulin/awesome-graphql#awesome-graphql- "awesome-graphql")
-- [awesome-apisec](https://github.com/arainho/awesome-api-security#readme "awesome-apisec")
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#awesome-grpc- "Awesome gRPC")
+- [awesome GraphQL](https://github.com/chentsulin/awesome-graphql#awesome-graphql- "awesome GraphQL")
+- [awesome APISec](https://github.com/arainho/awesome-api-security#readme "awesome APISec")
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping#awesome-web-scraping "Awesome Web Scraping")
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist#api-security-checklist "API Security Checklist")
 ## 基本
 - [API設計まとめ](https://qiita.com/KNR109/items/d3b6aa8803c62238d990 "API設計まとめ")
+- [gRPC と REST: gRPC、OpenAPI、REST と、API 設計でそれらをいつ使用するかを理解する](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them?hl=en "gRPC と REST: gRPC、OpenAPI、REST と、API 設計でそれらをいつ使用するかを理解する")
 - [WebAPI](https://techinfoofmicrosofttech.osscons.jp/index.php?WebAPI "WebAPI")
 ## Public
 - [Public APIs](https://github.com/public-apis/public-apis#public-apis "Public APIs")
@@ -30,7 +32,11 @@
 - [GraphQL](https://graphql.org/learn/ "GraphQL")
 - [GraphQLはいつ使うか、RESTとの比較](https://zenn.dev/saboyutaka/articles/e5515872871534 "GraphQLはいつ使うか、RESTとの比較")
 ## OpenApi
+- [openapis](https://www.openapis.org/ "openapis")
 - [swagger](https://swagger.io/ "swagger")
+- [what-is-openapi](https://www.openapis.org/what-is-openapi "what-is-openapi")
+- [OpenAPIまとめ](https://qiita.com/KNR109/items/7e094dba6bcf37ed73cf "OpenAPIまとめ")
+- [OpenAPIとは](https://www.aeyescan.jp/media/openapi "OpenAPIとは")
 ## JWT
 - [JWT](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html#Overview "JWT")
 ## 書籍

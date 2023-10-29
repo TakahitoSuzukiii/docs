@@ -5,6 +5,9 @@
 - [【図解】HTTP/2って？HTTP/1.1との違いと導入メリット・課題まとめ](https://www.kagoya.jp/howto/it-glossary/security/http-2/ "【図解】HTTP/2って？HTTP/1.1との違いと導入メリット・課題まとめ")
 - [進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし⁠⁠、HTTP/3の基本を知る](https://gihyo.jp/admin/serial/01/http3/0001 "進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし⁠⁠、HTTP/3の基本を知る")
 - [普及が進む「HTTP/2」の仕組みとメリットとは](https://knowledge.sakura.ad.jp/7734/ "普及が進む「HTTP/2」の仕組みとメリットとは")
+## ロードバランシング
+- [レイヤ 4 ロード バランシングとは何ですか?](https://www.nginx.com/resources/glossary/layer-4-load-balancing/ "レイヤ 4 ロード バランシングとは何ですか?")
+- [What Is Layer 7 Load Balancing?](https://www.nginx.com/resources/glossary/layer-7-load-balancing/ "What Is Layer 7 Load Balancing?")
 ## トラフィック
 - [基礎から学ぶネットワーク構築](https://atmarkit.itmedia.co.jp/ait/series/2575/ "基礎から学ぶネットワーク構築")
 > 1対多の通信

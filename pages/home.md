@@ -11,6 +11,10 @@
 - [Material Design](https://m3.material.io "Material Design")
 - [icons](https://fonts.google.com/icons?icon.platform=web&icon.style=Outlined "icons")
 ## ブログ
+### 海外
+- [aws](https://aws.amazon.com/jp/blogs/news/ "aws")
+- [netflixtechblog](https://netflixtechblog.com/ "netflixtechblog")
+### 日本語
 - [ogis](https://www.ogis-ri.co.jp/otc/hiroba/topic "ogis")
 - [qiita](https://qiita.com "qiita")
 - [zenn](https://zenn.dev "zenn")

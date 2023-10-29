@@ -11,6 +11,11 @@
 ## Library
 - [standard library](https://pkg.go.dev/std "standard library")
 - [Mirrativ のバックエンドで使っているGoライブラリを紹介する！](https://tech.mirrativ.stream/entry/2022/11/29/120730 "Mirrativ のバックエンドで使っているGoライブラリを紹介する！")
+## Algorithms
+- [The Algorithms - Go](https://github.com/TheAlgorithms/Go#the-algorithms---go "The Algorithms - Go")
+## generator
+- [ゼロから作る Protocol Buffer のパーサーとレキサー](https://speakerdeck.com/yoheimuta/lexer-in-go-from-scratch "ゼロから作る Protocol Buffer のパーサーとレキサー")
+- [高速で統一的な自動生成ツールをprotocプラグインとして実装した話](https://speakerdeck.com/qualiarts/gao-su-detong-de-nazi-dong-sheng-cheng-turuwoprotocpuraguintositeshi-zhuang-sitahua "高速で統一的な自動生成ツールをprotocプラグインとして実装した話")
 ## Cloud Service FrameWorks
 - [cloud service](https://go.dev/solutions/cloud "cloud service")
 - [gokit](https://gokit.io/ "gokit")
