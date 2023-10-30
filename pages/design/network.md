@@ -2,6 +2,9 @@
 - [wiki](https://ja.wikipedia.org/wiki/OSI%E5%8F%82%E7%85%A7%E3%83%A2%E3%83%87%E3%83%AB "wiki")
 - [OSI参照モデル 【OSI reference model】 OSI階層モデル / OSI layer model](https://e-words.jp/w/OSI%E5%8F%82%E7%85%A7%E3%83%A2%E3%83%87%E3%83%AB.html "OSI参照モデル 【OSI reference model】 OSI階層モデル / OSI layer model")
 ## HTTP
+- [HTTP のリソースと仕様書](https://developer.mozilla.org/ja/docs/Web/HTTP/Resources_and_specifications "HTTP のリソースと仕様書")
+- [wiki](https://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol "wiki")
+- [Transport Layer Security](https://ja.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security")
 - [【図解】HTTP/2って？HTTP/1.1との違いと導入メリット・課題まとめ](https://www.kagoya.jp/howto/it-glossary/security/http-2/ "【図解】HTTP/2って？HTTP/1.1との違いと導入メリット・課題まとめ")
 - [進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし⁠⁠、HTTP/3の基本を知る](https://gihyo.jp/admin/serial/01/http3/0001 "進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし⁠⁠、HTTP/3の基本を知る")
 - [普及が進む「HTTP/2」の仕組みとメリットとは](https://knowledge.sakura.ad.jp/7734/ "普及が進む「HTTP/2」の仕組みとメリットとは")

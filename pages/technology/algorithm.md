@@ -20,8 +20,6 @@
 - [ハッシュ関数](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E9%96%A2%E6%95%B0 "ハッシュ関数")
 - [完全ハッシュ関数](https://academic-accelerator.com/encyclopedia/jp/perfect-hash-function "完全ハッシュ関数")
 - [完全ハッシュ関数](https://ja.wikipedia.org/wiki/%E8%A1%9D%E7%AA%81_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6) "完全ハッシュ関数")
-## ソート
-- []( "")
 ## Meta Programming
 - [メタプログラミング](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 "メタプログラミング")
 - [Fluent Python](https://www.oreilly.co.jp/books/9784873118178/ "Fluent Python")
@@ -30,7 +28,8 @@
 - [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators#awesome-static-web-site-generators "Awesome Static Web Site Generators")
 - [hygen](https://www.npmjs.com/package/hygen "hygen")
 - []( "")
-
+## ソート
+- []( "")
 ## 統計
 - []( "")
 ## 確率論
