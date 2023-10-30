@@ -10,6 +10,7 @@
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd#awesome-domain-driven-design- "Awesome Domain-Driven Design")
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives#awesome-open-source-alternatives-to-saas "Awesome open-source alternatives to SaaS")
 - [Awesome ReverseEngineering](https://github.com/alphaSeclab/awesome-reverse-engineering#%E6%89%80%E6%9C%89%E6%94%B6%E9%9B%86%E7%B1%BB%E9%A1%B9%E7%9B%AE "Awesome ReverseEngineering")
+> アーキテクチャとは、建築（物）、建築術、建築様式、構造、構成などの意味を持つ英単語
 ## ソフトウェア設計・ロードマップ
 - [ソフトウェア設計・アーキテクチャの学び方](https://qiita.com/ROPITAL/items/165bef33492ba27cfbf7 "ソフトウェア設計・アーキテクチャの学び方")
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#the-system-design-primer "The System Design Primer")

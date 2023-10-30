@@ -1,6 +1,9 @@
 ## Awesome
 - [Awesome](https://github.com/sindresorhus/awesome#contents "Awesome")
 - [Awesome Secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#readme "Awesome Secret knowledge")
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#the-system-design-primer "The System Design Primer")
+- [システム設計パターン](https://github.com/Sairyss/system-design-patterns#system-design-patterns "システム設計パターン")
+- [バックエンドのベストプラクティス](https://github.com/Sairyss/backend-best-practices#backend-best-practices "バックエンドのベストプラクティス")
 ## 原理・原則
 - [原理・原則](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63 "原理・原則")
 ## 命名規則
@@ -12,8 +15,8 @@
 - [icons](https://fonts.google.com/icons?icon.platform=web&icon.style=Outlined "icons")
 ## ブログ
 ### 海外
-- [aws](https://aws.amazon.com/jp/blogs/news/ "aws")
-- [netflixtechblog](https://netflixtechblog.com/ "netflixtechblog")
+- [Company architectures](https://github.com/donnemartin/system-design-primer/tree/master#company-architectures "Company architectures")
+- [Company engineering blogs](https://github.com/donnemartin/system-design-primer/tree/master#company-engineering-blogs "Company engineering blogs")
 ### 日本語
 - [ogis](https://www.ogis-ri.co.jp/otc/hiroba/topic "ogis")
 - [qiita](https://qiita.com "qiita")
