@@ -16,6 +16,7 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#the-system-design-primer "The System Design Primer")
 - [システム設計パターン](https://github.com/Sairyss/system-design-patterns#system-design-patterns "システム設計パターン")
 - [バックエンドのベストプラクティス](https://github.com/Sairyss/backend-best-practices#backend-best-practices "バックエンドのベストプラクティス")
+- [Company engineering blogs](https://github.com/donnemartin/system-design-primer#company-engineering-blogs "")
 ## オープンソースの代替手段
 - [opensourcealternative](https://www.opensourcealternative.to/ "opensourcealternative")
 ## ソフトウェアアーキテクチャ
