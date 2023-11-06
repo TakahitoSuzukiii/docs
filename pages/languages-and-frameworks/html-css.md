@@ -15,6 +15,10 @@
 - [object-fit](https://developer.mozilla.org/ja/docs/Web/CSS/object-fit "object-fit")
 - [overflow](https://developer.mozilla.org/ja/docs/Web/CSS/overflow "overflow")
 - [text-overflow](https://developer.mozilla.org/ja/docs/Web/CSS/text-overflow "text-overflow")
+### DOM
+- [DOM の紹介](https://developer.mozilla.org/ja/docs/Web/API/Document_Object_Model/Introduction "DOM の紹介")
+### AJAX
+- [AJAX](https://developer.mozilla.org/ja/docs/Glossary/AJAX "AJAX")
 ## Validator
 - [Nu Html Checker](https://validator.w3.org/nu "Nu Html Checker")
 - [CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_uri "CSS Validation Service")

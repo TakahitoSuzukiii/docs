@@ -1,6 +1,7 @@
 ## Awesome
 - [Awesome Angular](https://github.com/PatrickJS/awesome-angular#awesome-angular-- "Awesome Angular")
 - [Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components "Angular 2+ Components & Libraries")
+- [Roadmap Angular](https://roadmap.sh/angular "")
 ## Angular
 - [Cheat Sheet](https://angular.io/guide/cheatsheet#cheat-sheet "Cheat Sheet")
 - [docs](https://angular.io/docs "docs")

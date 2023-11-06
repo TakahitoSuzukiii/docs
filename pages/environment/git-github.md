@@ -1,5 +1,43 @@
 ## Awesome
 - [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#git-and-git-flow-cheat-sheet- "Git and Git Flow Cheat Sheet")
+## Git
+- [よく使うGitコマンド19選！使い方を初心者向けにわかりやすく解説](https://www.sejuku.net/blog/5816#index_id5 "")
+###　fetch
+- [共同開発の第一歩!git fetchを正しく理解しよう!](https://www.sejuku.net/blog/71164 "")
+> みんなの更新内容を、自分の開発環境に取り入れる機能
+```
+git fetch
+git fetch origin // 特定のリポジトリのみ取得
+git fetch --all // 全て取得
+git fetch -t // タグの同期
+git fetch -p // 削除ブランチの同期
+```
+### merge
+- [git mergeでブランチをマージしよう!いろんな疑問を徹底解説](https://www.sejuku.net/blog/71003 "")
+> 現在のブランチ(HEADの指している場所)へ、他のブランチの更新を取り込む処理
+```
+git merge 取り込みたいブランチ
+git merge --no-ff 取り込みたいブランチ名 // 強制的にマージコミットを作成するコマンド
+```
+### pull
+- [【Git入門】pullでリモートリポジトリの履歴に更新する方法](https://www.sejuku.net/blog/70851 "")
+> 内部で「fetchコマンド」と「mergeコマンド」を順次行ってくれているコマンド
+```
+git pull [リポジトリ名] [ブランチ名]
+git pull origin master
+```
+### reset
+```
+git reset --hard HEAD^ // git pullの取り消し
+```
+### rebase
+- [これで完璧! 図解でわかるgit rebaseの2つの使い方!](https://www.sejuku.net/blog/71919 "")
+> 指定したコミットを、ブランチを変えて作り直したり、ひとまとめにしたりして、ログを綺麗にするコマンド
+> mergeとrebaseの違い：既存のコミットへ影響を与えるか・与えないか
+```
+git rebase [つなぐ元にするブランチ名]
+git rebase -i [ひとまとめにする地点の一つ前のコミットID] // 複数ブランチをまとめるコマンド
+```
 ## auth
 - [GitHubへの認証について](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/about-authentication-to-github "GitHubへの認証について")
 - [個人のアクセストークンの管理](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens "個人のアクセストークンの管理")
