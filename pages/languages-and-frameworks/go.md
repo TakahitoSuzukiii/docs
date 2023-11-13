@@ -12,6 +12,19 @@
 ## Library
 - [standard library](https://pkg.go.dev/std "standard library")
 - [Mirrativ のバックエンドで使っているGoライブラリを紹介する！](https://tech.mirrativ.stream/entry/2022/11/29/120730 "Mirrativ のバックエンドで使っているGoライブラリを紹介する！")
+## 基本
+- [他言語プログラマがgolangの基本を押さえる為のまとめ](https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7#%E6%A6%82%E8%A6%81)
+- [【Go】変数宣言の違い( := 、 var )]([あああ](https://qiita.com/Winesburg_Ohio/items/16ef144b48b241241ecd))
+- [ざっくりGoの文法まとめ](https://qiita.com/chrischris0801/items/5980665aa0faab07f2f1#%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3)
+> 変数 var
+> スコープ {}
+> 配列 Array
+> スライス Slice
+> マップ map
+> ポインターとnil
+> 構造体とメソッドとコンポジション
+> インターフェイスと抽象化
+> ゴルーチンとチャネル、GoRoutine、channel
 ## Algorithms
 - [The Algorithms - Go](https://github.com/TheAlgorithms/Go#the-algorithms---go "The Algorithms - Go")
 ## generator
@@ -19,8 +32,16 @@
 - [高速で統一的な自動生成ツールをprotocプラグインとして実装した話](https://speakerdeck.com/qualiarts/gao-su-detong-de-nazi-dong-sheng-cheng-turuwoprotocpuraguintositeshi-zhuang-sitahua "高速で統一的な自動生成ツールをprotocプラグインとして実装した話")
 ## Cloud Service FrameWorks
 - [cloud service](https://go.dev/solutions/cloud "cloud service")
+## go-kit
 - [gokit](https://gokit.io/ "gokit")
 - [go kit](https://github.com/go-kit/kit "go kit")
+- [endpoint](https://pkg.go.dev/github.com/go-kit/kit/endpoint "")
+- [log](https://pkg.go.dev/github.com/go-kit/kit/log "")
+- [transport](https://pkg.go.dev/github.com/go-kit/kit/transport# "")
+- [transport/http](https://pkg.go.dev/github.com/go-kit/kit/transport/http "")
+- [net/http](https://pkg.go.dev/net/http "")
+## gorilla
+- [mux](https://pkg.go.dev/github.com/gorilla/mux "")
 ## WebFrameWork
 - [web framework](https://pkg.go.dev/github.com/mingrammer/go-web-framework-stars "web framework")
 - [benchmark](https://github.com/smallnest/go-web-framework-benchmark "benchmark")
