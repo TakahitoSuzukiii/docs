@@ -2,6 +2,17 @@
 - [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#git-and-git-flow-cheat-sheet- "Git and Git Flow Cheat Sheet")
 ## Git
 - [よく使うGitコマンド19選！使い方を初心者向けにわかりやすく解説](https://www.sejuku.net/blog/5816#index_id5 "")
+###　stash
+> 
+```
+git stash save -u コメント
+git stash list
+git stash apply stash@{0}
+git stash drop stash@{0}
+git diff stash@{0}
+git diff stash@{0} hoge.txt
+git stash clear
+```
 ###　fetch
 - [共同開発の第一歩!git fetchを正しく理解しよう!](https://www.sejuku.net/blog/71164 "")
 > みんなの更新内容を、自分の開発環境に取り入れる機能

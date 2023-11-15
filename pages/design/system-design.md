@@ -12,18 +12,20 @@
 - [Awesome ReverseEngineering](https://github.com/alphaSeclab/awesome-reverse-engineering#%E6%89%80%E6%9C%89%E6%94%B6%E9%9B%86%E7%B1%BB%E9%A1%B9%E7%9B%AE "Awesome ReverseEngineering")
 > アーキテクチャとは、建築（物）、建築術、建築様式、構造、構成などの意味を持つ英単語
 ## ソフトウェア設計・ロードマップ
-- [Roadmap System Design](https://roadmap.sh/system-design "")
-- [Roadmap Software Design Architecture](https://roadmap.sh/software-design-architecture "")
-- [Roadmap Backend](https://roadmap.sh/backend "")
-- [ソフトウェア設計・アーキテクチャの学び方](https://qiita.com/ROPITAL/items/165bef33492ba27cfbf7 "ソフトウェア設計・アーキテクチャの学び方")
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#the-system-design-primer "The System Design Primer")
-- [システム設計パターン](https://github.com/Sairyss/system-design-patterns#system-design-patterns "システム設計パターン")
-- [バックエンドのベストプラクティス](https://github.com/Sairyss/backend-best-practices#backend-best-practices "バックエンドのベストプラクティス")
-- [Company engineering blogs](https://github.com/donnemartin/system-design-primer#company-engineering-blogs "")
+- [Roadmap System Design](https://roadmap.sh/system-design)
+- [Roadmap Software Design Architecture](https://roadmap.sh/software-design-architecture)
+- [Roadmap Backend](https://roadmap.sh/backend)
+- [ソフトウェア設計・アーキテクチャの学び方](https://qiita.com/ROPITAL/items/165bef33492ba27cfbf7)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#the-system-design-primer)
+- [システム設計パターン](https://github.com/Sairyss/system-design-patterns#system-design-patterns)
+- [バックエンドのベストプラクティス](https://github.com/Sairyss/backend-best-practices#backend-best-practices)
+- [Company engineering blogs](https://github.com/donnemartin/system-design-primer#company-engineering-blogs)
 ## オープンソースの代替手段
 - [opensourcealternative](https://www.opensourcealternative.to/ "opensourcealternative")
 ## ソフトウェアアーキテクチャ
-- [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design "設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選")
+- [ソフトウェア アーキテクチャと設計の概要](https://www.tutorialspoint.com/software_architecture_design/introduction.htm)
+> アーキテクチャはシステムの青写真として機能します。これは、システムの複雑さを管理し、コンポーネント間の通信および調整メカニズムを確立するための抽象化を提供します。
+- [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design)
 ### 多層アーキテクチャ
 - [wiki 多層アーキテクチャ](https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%B1%A4%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3 "wiki 多層アーキテクチャ")
 ### 古典DDD

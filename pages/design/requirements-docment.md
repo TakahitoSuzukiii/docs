@@ -3,11 +3,20 @@
 - [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing#awesome-technical-writing "Awesome Technical Writing")
 - [アーキテクチャ決定記録 (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record#architecture-decision-record-adr "アーキテクチャ決定記録 (ADR)")
 - [フルスタック ソフトウェアの設計とアーキテクチャのロードマップ](https://github.com/stemmlerjs/software-design-and-architecture-roadmap#the-full-stack-software-design-and-architecture-roadmap "フルスタック ソフトウェアの設計とアーキテクチャのロードマップ")
+## 基本
+- [aaa](aaa)
 ## 要件定義・要求定義
 - [顧客も知らない真の要求を導き出す](https://www.ogis-ri.co.jp/otc/hiroba/technical/RequirementsAnalysis/ "顧客も知らない真の要求を導き出す")
 > 概要->業務フロー->役割、クラス図、ER図->やりとり、API->非機能要件、レスポンスの平均と最も遅い場合
 - [非機能要求とISO9126](https://www.ogis-ri.co.jp/otc/hiroba/technical/JavaPress_ISO9126/ "非機能要求とISO9126")
-## ロバストネス分析
+## 機能要件
+## 非機能要件
+## 要求分析
+### メトリクス測定
+- [プロジェクト測定実践記 第1回](https://www.ogis-ri.co.jp/otc/hiroba/technical/ProjectAnalysis/ProjectAnalysis01.html)
+- [ビジネスアプリ開発者のための機能規模測定手法COSMIC法入門（第1回）](https://www.ogis-ri.co.jp/otc/hiroba/technical/IntroCOSMIC/IntroCOSMICPart1Jun2010.html)
+- [「見積り」の極意](https://www.ogis-ri.co.jp/otc/hiroba/technical/EstimateReview/pdf/EstimateReview.pdf)
+### ロバストネス分析
 - [実践ロバストネス分析](https://www.ogis-ri.co.jp/otc/hiroba/technical/RobustnessAnalysis/RA1/index.html "実践ロバストネス分析")
 - [ロバストネス図を開発で活用してみた話](https://buildersbox.corp-sansan.com/entry/2022/02/28/110000 "ロバストネス図を開発で活用してみた話")
 - [ロバストネス図を活用したシステム設計](https://thinkit.co.jp/article/13487 "ロバストネス図を活用したシステム設計")
