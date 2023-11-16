@@ -25,6 +25,8 @@
 > 構造体とメソッドとコンポジション
 > インターフェイスと抽象化
 > ゴルーチンとチャネル、GoRoutine、channel
+## Design Pattern
+- [Go Patterns](https://github.com/tmrts/go-patterns#readme)
 ## Algorithms
 - [The Algorithms - Go](https://github.com/TheAlgorithms/Go#the-algorithms---go "The Algorithms - Go")
 ## generator

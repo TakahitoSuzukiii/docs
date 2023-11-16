@@ -72,6 +72,7 @@
 - [ヘキサゴナルアーキテクチャ(ポートアンドアダプター)とは何か](https://qiita.com/cocoa-maemae/items/b08c4cf95d47e314e2dc "ヘキサゴナルアーキテクチャ(ポートアンドアダプター)とは何か")
 - [Hexagonal Architecture(ヘキサゴナルアーキテクチャ) とは](https://zenn.dev/heyyou/articles/f380adb8d1fe8f "Hexagonal Architecture(ヘキサゴナルアーキテクチャ) とは")
 ## デザインパターン
+- [DESIGN PATTERNS QUICK REFERENCE](http://www.mcdonaldland.info/2007/11/28/40/)
 - [事例で学ぶデザインパターン](https://www.ogis-ri.co.jp/otc/hiroba/technical/DesignPatternsWithExample/ "事例で学ぶデザインパターン")
 - [デザインパターンINDEX](https://www.techscore.com/tech/DesignPattern/ "デザインパターンINDEX")
 - [デザインパターンブログ](https://qiita.com/e99h2121/items/91d5380932bcd2951d8d "デザインパターンブログ")
