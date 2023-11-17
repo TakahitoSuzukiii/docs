@@ -12,9 +12,11 @@
 - [排他制御](https://ja.wikipedia.org/wiki/%E6%8E%92%E4%BB%96%E5%88%B6%E5%BE%A1 "排他制御")
 - [mutex](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9 "mutex")
 ## 認証・認可・ブロック機能
+- [authlete](https://qiita.com/search?sort=&q=authlete)
 - [認可のアーキテクチャに関する考察](https://zenn.dev/she_techblog/articles/6eff1f28d107be "認可のアーキテクチャに関する考察")
 - [uuac](https://inria.hal.science/hal-01534764/document "uuac")
 - [uuac](https://inria.hal.science/hal-01284863/document "uuac")
+- [auth0](https://auth0.com/jp)
 - [freee の権限管理基盤マイクロサービスの今を語ろう！](https://developers.freee.co.jp/entry/authorization-management-microservice "freee の権限管理基盤マイクロサービスの今を語ろう！")
 ## 決済機能
 - [外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022](https://dev.classmethod.jp/articles/devio2022-vulnerable-points-and-countermeasures-for-using-external-payment-services/ "外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022")
