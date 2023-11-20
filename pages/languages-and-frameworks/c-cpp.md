@@ -1,6 +1,8 @@
 ## Awesome
-- [awesome-c](https://github.com/inputsh/awesome-c "awesome-c")
+- [Awesome C](https://github.com/inputsh/awesome-c)
+- [Awesome C](https://github.com/oz123/awesome-c#awesome-c)
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp#awesome-c-- "Awesome C++")
+- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp#awesome-modern-c)
 - [Awesome header-only C++](https://github.com/p-ranav/awesome-hpp#readme "Awesome header-only C++")
 ## 書籍
 - [独習C](https://www.shoeisha.co.jp/book/detail/9784798150246 "独習C")
