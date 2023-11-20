@@ -1,7 +1,11 @@
 ## Awesome
-- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision "Awesome Computer Vision")
-- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#awesome-algorithms "Awesome Algorithms")
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme "Papers We Love")
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses#awesome-cs-courses-)
+- [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities#awesome-computer-science-opportunities)
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#awesome-algorithms)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+## データ構造
+- []()
 ## アルゴリズム
 - [algorithm](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0 "algorithm")
 ### 表記

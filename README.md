@@ -32,7 +32,7 @@
 - [セキュリティ](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/design/security.md)
 - [UIデザイン](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/design/ui-design.md)
 ### [技術](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/technology "技術")
-- [アルゴリズム](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/technology/algorithm.md)
+- [Computer Science](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/technology/science.md)
 - [OSとLinux](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/technology/os-linux.md)
 - [自動生成](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/technology/generator.md)
 - [生成AI](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/technology/generateAI.md)
