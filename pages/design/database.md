@@ -78,6 +78,9 @@
 - [MySQL外部キー制約とインデックスに必要な知識](https://tech.layerx.co.jp/entry/2022/01/31/093141 "MySQL外部キー制約とインデックスに必要な知識")
 ## インデックスとパフォーマンス（offsetとlimitやページネーション）
 - [シーク法を使ったアクセス](https://use-the-index-luke.com/ja/sql/partial-results/fetch-next-page#fig07_03 "シーク法を使ったアクセス")
+> オフセット法とシーク法、ページネーションと無限スクロール
+> シーク法の欠点
+> 最も大きいのは扱いが難しい事でしょう。where句を注意深く構成しなければならないのに加え、 任意のページを取り出す事もできません。さらに、表示の順序を変える際は全ての比較条件とソート処理を逆にする必要があります。ただし、 ページのスキップと逆順の表示という2つの機能は、ユーザインタフェースに無限スクロール機能を使う場合には不要です。
 ### PROFILE
 - [SHOW PROFILE](https://dev.mysql.com/doc/refman/8.0/ja/show-profile.html "SHOW PROFILE")
 - [パフォーマンススキーマを使用したクエリープロファイリング](https://dev.mysql.com/doc/refman/8.0/ja/performance-schema-query-profiling.html "パフォーマンススキーマを使用したクエリープロファイリング")
