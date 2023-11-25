@@ -5,7 +5,14 @@
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#awesome-algorithms)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 ## データ構造
-- []()
+## 集合
+- [二項関係とは](https://mathlandscape.com/binary-relation/)
+- [反射律・推移律・対称律・反対称律の定義と具体例7つ](https://mathlandscape.com/binary-relations/)
+- [同値関係の定義と重要な具体例5つ](https://mathlandscape.com/equiv-relation/)
+## グラフアルゴリズム
+- [グラフアルゴリズムの基礎を学ぶ1ー概念と表現方法](https://zenn.dev/convers39/articles/9b66f263e335d8)
+- [グラフアルゴリズムの基礎を学ぶ2ーBFSとDFS](https://zenn.dev/convers39/articles/1c315cd96a991f)
+- [グラフアルゴリズムの基礎を学ぶ3ーUnionFind](https://zenn.dev/convers39/articles/ffd666639e7782)
 ## アルゴリズム
 - [algorithm](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0 "algorithm")
 ### 表記
