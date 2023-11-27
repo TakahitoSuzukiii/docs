@@ -1,8 +1,9 @@
 ## Awesome
-- [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#awesome-quality-assurance-roadmap- "Awesome Quality Assurance Roadmap")
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing#awesome-testing-- "Awesome Testing")
 - [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#awesome-visual-regression-testing- "Awesome Visual Regression Testing")
 - [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation "Awesome Test Automation")
+## Roadmap
+- [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#awesome-quality-assurance-roadmap-)
 ## テスト駆動開発
 - [いまさら聞けないTDD/BDD超入門](https://atmarkit.itmedia.co.jp/ait/series/1431/ "いまさら聞けないTDD/BDD超入門")
 > 動作を検証するスタイルのデトロイト派とTDDを組み合わせたものがBDD
