@@ -10,6 +10,8 @@
 - [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch#awesome-elasticsearch "Awesome Elasticsearch")
 ## Roadmap
 - [Roadmap SQL](https://roadmap.sh/sql)
+## Advent Calendar
+- [TiDB Advent Calendar 2023](https://qiita.com/advent-calendar/2023/tidb)
 ## DB選定・選択
 - [サービスに適したデータベースを選択する方法](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632 "サービスに適したデータベースを選択する方法")
 - [ユースケースに適した最新データベースの選び方](https://www.integrate.io/jp/blog/which-database-ja/ "")
@@ -92,6 +94,7 @@
 - [Amazon Aurora の特徴](https://aws.amazon.com/jp/rds/aurora/features/ "Amazon Aurora の特徴")
 - [Aurora PostgreSQLでテーブルパーティショニングを導入した話 【検討編】](https://lab.mo-t.com/blog/introduce-table-partitioning-in-aurora-postgres "Aurora PostgreSQLでテーブルパーティショニングを導入した話 【検討編】")
 - [Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】](https://lab.mo-t.com/blog/introduce-table-partitioning-in-aurora-postgres-practice "Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】")
+## TiDB
 ## NoSQL
 - [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/ "MongoDB Schema Design Best Practices")
 - [Best Practices Guide for MongoDB Performance](https://www.mongodb.com/basics/best-practices "https://www.mongodb.com/basics/best-practices")

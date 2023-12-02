@@ -13,6 +13,8 @@
 ## Material Design
 - [Material Design](https://m3.material.io "Material Design")
 - [icons](https://fonts.google.com/icons?icon.platform=web&icon.style=Outlined "icons")
+## トレンド
+- [Google Trend](https://trends.google.co.jp/trends/explore?geo=JP&hl=ja)
 ## ブログ
 ### 海外
 - [Company architectures](https://github.com/donnemartin/system-design-primer/tree/master#company-architectures "Company architectures")

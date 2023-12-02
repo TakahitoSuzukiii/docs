@@ -26,6 +26,11 @@
 > 構造体とメソッドとコンポジション
 > インターフェイスと抽象化
 > ゴルーチンとチャネル、GoRoutine、channel
+- [[Go]「...（ピリオド３つ）」の使い方（基本編）](https://qiita.com/Yashy/items/a02b74a00136dc5a42c4)
+> 可変長引数のSliceとして扱われる
+> nums ...int
+> s3 := append(s1, s2...)
+- [[Go]「...（ピリオド３つ）」の使い方（応用編）](https://qiita.com/Yashy/items/3f15ea8f60224c8f95c2)
 ## Design Pattern
 - [Go Patterns](https://github.com/tmrts/go-patterns#readme)
 ## Algorithms
