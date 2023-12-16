@@ -14,9 +14,9 @@
 - [グラフアルゴリズムの基礎を学ぶ2ーBFSとDFS](https://zenn.dev/convers39/articles/1c315cd96a991f)
 - [グラフアルゴリズムの基礎を学ぶ3ーUnionFind](https://zenn.dev/convers39/articles/ffd666639e7782)
 ## アルゴリズム
-- [algorithm](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0 "algorithm")
+- [algorithm](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)
 ### 表記
-- [ランダウの記号](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%82%A6%E3%81%AE%E8%A8%98%E5%8F%B7 "ランダウの記号")
+- [ランダウの記号](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%82%A6%E3%81%AE%E8%A8%98%E5%8F%B7)
 ## ソート
 - []()
 ## ツリー
