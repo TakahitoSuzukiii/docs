@@ -34,7 +34,9 @@
 ## Design Pattern
 - [Go Patterns](https://github.com/tmrts/go-patterns#readme)
 ## Algorithms
-- [The Algorithms - Go](https://github.com/TheAlgorithms/Go#the-algorithms---go "The Algorithms - Go")
+- [The Algorithms - Go](https://github.com/TheAlgorithms/Go#the-algorithms---go)
+## validator
+- [go-playground/validator リクエストパラメータ向けValidationパターンまとめ](https://qiita.com/RunEagler/items/ad79fc860c3689797ccc#%E6%A6%82%E8%A6%81)
 ## generator
 - [ゼロから作る Protocol Buffer のパーサーとレキサー](https://speakerdeck.com/yoheimuta/lexer-in-go-from-scratch "ゼロから作る Protocol Buffer のパーサーとレキサー")
 - [高速で統一的な自動生成ツールをprotocプラグインとして実装した話](https://speakerdeck.com/qualiarts/gao-su-detong-de-nazi-dong-sheng-cheng-turuwoprotocpuraguintositeshi-zhuang-sitahua "高速で統一的な自動生成ツールをprotocプラグインとして実装した話")

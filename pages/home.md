@@ -1,9 +1,10 @@
 ## Awesome
-- [Awesome](https://github.com/sindresorhus/awesome#contents "Awesome")
-- [Awesome Secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#readme "Awesome Secret knowledge")
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#the-system-design-primer "The System Design Primer")
-- [システム設計パターン](https://github.com/Sairyss/system-design-patterns#system-design-patterns "システム設計パターン")
-- [バックエンドのベストプラクティス](https://github.com/Sairyss/backend-best-practices#backend-best-practices "バックエンドのベストプラクティス")
+- [Awesome](https://github.com/sindresorhus/awesome#contents)
+- [Awesome Secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#readme)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#the-system-design-primer)
+- [システム設計パターン](https://github.com/Sairyss/system-design-patterns#system-design-patterns)
+- [バックエンドのベストプラクティス](https://github.com/Sairyss/backend-best-practices#backend-best-practices)
+- [全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】](https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3)
 ## 原理・原則
 - [原理・原則](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63 "原理・原則")
 ## 命名規則
