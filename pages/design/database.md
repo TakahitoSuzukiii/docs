@@ -96,6 +96,8 @@
 - [Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】](https://lab.mo-t.com/blog/introduce-table-partitioning-in-aurora-postgres-practice "Aurora PostgreSQLでテーブルパーティショニングを導入した話 【実践編】")
 ## TiDB
 - [TiDB](https://github.com/pingcap/tidb?tab=readme-ov-file)
+- [quick start docker](https://github.com/pingcap/tidb-docker-compose?tab=readme-ov-file#quick-start)
+- [deploy](https://docs.pingcap.com/tidb/v4.0/deploy-test-cluster-using-docker-compose)
 ## NoSQL
 - [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/ "MongoDB Schema Design Best Practices")
 - [Best Practices Guide for MongoDB Performance](https://www.mongodb.com/basics/best-practices "https://www.mongodb.com/basics/best-practices")
