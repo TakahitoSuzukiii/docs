@@ -33,11 +33,12 @@
 ## Docker
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#docker-cheat-sheet "Docker Cheat Sheet")
 ## kubernetes
-- [徹底解説](https://zenn.dev/nameless_sn/articles/kubernetes-tutorial "徹底解説")
-- [ツール](https://zenn.dev/tmrekk/articles/580f2e2bb39d5f "ツール")
-- [ツール欲張りセット](https://zenn.dev/zoetro/articles/9454a6231a1273 "ツール欲張りセット")
-- [エコシステム](https://qiita.com/cvusk/items/100dfb955150ef8964e5 "エコシステム")
-- [ハンズオン](https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d "ハンズオン")
+- [Turial](https://kubernetes.io/ja/docs/tutorials/)
+- [徹底解説](https://zenn.dev/nameless_sn/articles/kubernetes-tutorial)
+- [ツール](https://zenn.dev/tmrekk/articles/580f2e2bb39d5f)
+- [ツール欲張りセット](https://zenn.dev/zoetro/articles/9454a6231a1273)
+- [エコシステム](https://qiita.com/cvusk/items/100dfb955150ef8964e5)
+- [ハンズオン](https://qiita.com/Kta-M/items/ce475c0063d3d3f36d5d)
 ## CI / CD
 - [jenkins](https://www.jenkins.io "jenkins")
 - [circle-ci](https://qiita.com/gold-kou/items/4c7e62434af455e977c2 "circle-ci")

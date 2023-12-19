@@ -6,7 +6,7 @@
 - [PHP Developer roadmap](https://github.com/thecodeholic/php-developer-roadmap#php-developer-roadmap)
 - [Roadmap](https://github.com/ploi/roadmap#roadmap)
 ## 基本
-- [aaa](aaa)
+- [PHP基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html)
 ## 自作フレームワーク
 - [symfony Introduction](https://symfony.com/doc/current/create_framework/introduction.html)
 ## MySQL

@@ -1,3 +1,5 @@
+## algorithm
+- [Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm?tab=readme-ov-file#twitters-recommendation-algorithm)
 ## ストレージ管理
 - [cookie](https://developer.mozilla.org/ja/docs/Web/HTTP/Cookies "cookie")
 - [GDPR対応](https://b-risk.jp/blog/2022/02/gdpr/ "GDPR対応")
