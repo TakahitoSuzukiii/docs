@@ -6,6 +6,7 @@
 ## Go
 - [doc](https://go.dev/doc "doc")
 - [package](https://pkg.go.dev "package")
+- [project layout](https://go.dev/doc/modules/layout)
 - [play ground](https://go.dev/play "play ground")
 - [spec](https://go.dev/ref/spec "spec")
 - [effective go](https://go.dev/doc/effective_go "effective go")
@@ -43,13 +44,13 @@
 ## Cloud Service FrameWorks
 - [cloud service](https://go.dev/solutions/cloud "cloud service")
 ## go-kit
-- [gokit](https://gokit.io/ "gokit")
-- [go kit](https://github.com/go-kit/kit "go kit")
-- [endpoint](https://pkg.go.dev/github.com/go-kit/kit/endpoint "")
-- [log](https://pkg.go.dev/github.com/go-kit/kit/log "")
-- [transport](https://pkg.go.dev/github.com/go-kit/kit/transport# "")
-- [transport/http](https://pkg.go.dev/github.com/go-kit/kit/transport/http "")
-- [net/http](https://pkg.go.dev/net/http "")
+- [gokit](https://gokit.io/)
+- [go kit](https://github.com/go-kit/kit)
+- [endpoint](https://pkg.go.dev/github.com/go-kit/kit/endpoint)
+- [log](https://pkg.go.dev/github.com/go-kit/kit/log)
+- [transport](https://pkg.go.dev/github.com/go-kit/kit/transport#)
+- [transport/http](https://pkg.go.dev/github.com/go-kit/kit/transport/http)
+- [net/http](https://pkg.go.dev/net/http)
 ## gorilla
 - [mux](https://pkg.go.dev/github.com/gorilla/mux "")
 ## WebFrameWork

@@ -6,6 +6,8 @@
 - [Flutter Developer](https://roadmap.sh/flutter)
 ## Tutorial
 - [Flutter Developer](https://roadmap.sh/flutter)
+## Dart
+- [Effective Dartについて個人的にまとめてみる](https://qiita.com/simonritchie/items/daa7c58778660696417e)
 ## Flutter
 - [flutter](https://flutter.dev/)
 - [docs](https://docs.flutter.dev/)

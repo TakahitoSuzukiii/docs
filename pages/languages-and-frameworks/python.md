@@ -19,6 +19,11 @@
 ## SciPy
 ## docstring
 - [[Python] docstringのスタイルと書き方](https://qiita.com/flcn-x/items/393c6f1f1e1e5abec906)
+- [[Python]可読性を上げるための、docstringの書き方を学ぶ（NumPyスタイル）](https://qiita.com/simonritchie/items/49e0813508cad4876b5a)
+- [NumPyスタイルのdocstringをチェックしてくれるLintを作りました。](https://qiita.com/simonritchie/items/84c4d4b2528309c30359)
+## PEP8
+- [[Pythonコーディング規約]PEP8を読み解く](https://qiita.com/simonritchie/items/bb06a7521ae6560738a7)
+- [Pythonのフォーマッタをblackに移行してみたので色々所感をまとめてみる](https://qiita.com/simonritchie/items/feac5508c26385b0c819)
 ## 公式
 - [Python](https://www.python.org/)
 - [docs](https://docs.python.org/3/)
