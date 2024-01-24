@@ -32,6 +32,9 @@
 > nums ...int
 > s3 := append(s1, s2...)
 - [[Go]「...（ピリオド３つ）」の使い方（応用編）](https://qiita.com/Yashy/items/3f15ea8f60224c8f95c2)
+- [Go言語 インタフェースのメリットと使いどころを分かりやすく解説](https://zenn.dev/kasa/articles/golang-interface)
+- [Golangにおけるbyte型の扱いとユースケース](https://zenn.dev/tomoya_pama/articles/0104f31bdb8f41)
+- [Goの並行処理の基本をサクッとまとめてみた](https://zenn.dev/y_yuita/articles/de09b33dad9bfb)
 ## Design Pattern
 - [Go Patterns](https://github.com/tmrts/go-patterns#readme)
 ## Algorithms
