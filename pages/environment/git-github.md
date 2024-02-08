@@ -50,10 +50,11 @@ git rebase [つなぐ元にするブランチ名]
 git rebase -i [ひとまとめにする地点の一つ前のコミットID] // 複数ブランチをまとめるコマンド
 ```
 ## auth
-- [GitHubへの認証について](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/about-authentication-to-github "GitHubへの認証について")
-- [個人のアクセストークンの管理](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens "個人のアクセストークンの管理")
-- [アクセストークン認証](https://zenn.dev/technicarium/articles/5bf0647056fb87#%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E8%AA%8D%E8%A8%BC "アクセストークン認証")
-- [OAuth アプリのスコープ](https://docs.github.com/ja/apps/oauth-apps/building-oauth-apps/scopes-for-oauth-apps#available-scopes "OAuth アプリのスコープ")
+- [【Git】personal access tokenを使用してGitHubへアクセスする and source tree](https://qiita.com/YuukiYoshida/items/2e6b250d44bf1e0f5a0b)
+- [GitHubへの認証について](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/about-authentication-to-github)
+- [個人のアクセストークンの管理](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+- [アクセストークン認証](https://zenn.dev/technicarium/articles/5bf0647056fb87#%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E8%AA%8D%E8%A8%BC)
+- [OAuth アプリのスコープ](https://docs.github.com/ja/apps/oauth-apps/building-oauth-apps/scopes-for-oauth-apps#available-scopes)
 ## branch
 - [Upstream branch](https://qiita.com/djkazunoko/items/373363648d2e0b620bf8 "Upstream branch")
 ## Notifications

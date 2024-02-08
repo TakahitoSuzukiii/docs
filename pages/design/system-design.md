@@ -95,14 +95,16 @@
 - [ドメイン駆動設計入門](https://www.amazon.co.jp/-/en/%E6%88%90%E7%80%AC-%E5%85%81%E5%AE%A3-ebook/dp/B082WXZVPC/ref=d_reads_cwrtbar_sccl_1_3/357-9139844-7365657?pd_rd_w=OYZ8x&content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&pf_rd_r=QF9RCN4DSJAD494R60ES&pd_rd_wg=GaY3E&pd_rd_r=30be61a0-0766-484e-b849-09968c70d0e2&pd_rd_i=B082WXZVPC&psc=1 "ドメイン駆動設計入門")
 - [ユビキタス言語]( "ユビキタス言語")
 - [境界づけられたコンテキスト]( "境界づけられたコンテキスト")
-- [戦術的DDDをGoで実現する【entity編】](https://tech.yappli.io/entry/2022/07/12/%E6%88%A6%E8%A1%93%E7%9A%84DDD%E3%82%92Go%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%90entity%E7%B7%A8%E3%80%91 "戦術的DDDをGoで実現する【entity編】")
-- [戦術的DDDをGoで実現する【Value Object編】](https://tech.yappli.io/entry/2022/08/19/%E6%88%A6%E8%A1%93%E7%9A%84DDD%E3%82%92Go%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%90Value_Object%E7%B7%A8%E3%80%91 "戦術的DDDをGoで実現する【Value Object編】")
+- [戦術的DDDをGoで実現する【entity編】](https://tech.yappli.io/entry/2022/07/12/%E6%88%A6%E8%A1%93%E7%9A%84DDD%E3%82%92Go%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%90entity%E7%B7%A8%E3%80%91)
+- [戦術的DDDをGoで実現する【Value Object編】](https://tech.yappli.io/entry/2022/08/19/%E6%88%A6%E8%A1%93%E7%9A%84DDD%E3%82%92Go%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%90Value_Object%E7%B7%A8%E3%80%91)
 - [DDDとトランザクションの関係とユースケース層](https://tech.yappli.io/entry/ddd_usecase "DDDとトランザクションの関係とユースケース層")
 - [結果整合性]( "結果整合性")
 ## ユースケース駆動開発
-- [ユースケース駆動開発実践ガイド](https://www.amazon.co.jp/-/en/%E3%83%80%E3%82%B0%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0/dp/4798114456/ref=tmm_other_meta_binding_swatch_0?_encoding=UTF8&qid=1695003000&sr=8-1 "ユースケース駆動開発実践ガイド")
-## [テスト駆動設計](https://github.com/TakahitoSuzukiii/docs/wiki/テスト#テスト駆動開発 "テスト駆動設計")
+- [ユースケース駆動開発実践ガイド](https://www.amazon.co.jp/-/en/%E3%83%80%E3%82%B0%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0/dp/4798114456/ref=tmm_other_meta_binding_swatch_0?_encoding=UTF8&qid=1695003000&sr=8-1)
+## [テスト駆動設計](https://github.com/TakahitoSuzukiii/docs/wiki/テスト#テスト駆動開発)
 ## データ指向設計
 - [DOA]( "DOA")
 - [POA]( "POA")
-- [データ指向アプリケーションデザイン](https://www.amazon.co.jp/-/en/Martin-Kleppmann/dp/4873118700/ref=sr_1_10?crid=9HPKO9VTKGOF&keywords=%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0&qid=1695001175&sprefix=%E3%81%B6%E3%82%93%E3%81%95%E3%82%93%E3%81%97%E3%81%99%E3%81%A6m%2Caps%2C251&sr=8-10 "データ指向アプリケーションデザイン")
+- [データ指向アプリケーションデザイン](https://www.amazon.co.jp/-/en/Martin-Kleppmann/dp/4873118700/ref=sr_1_10?crid=9HPKO9VTKGOF&keywords=%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0&qid=1695001175&sprefix=%E3%81%B6%E3%82%93%E3%81%95%E3%82%93%E3%81%97%E3%81%99%E3%81%A6m%2Caps%2C251&sr=8-10)
+## 書籍
+- [ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ]()
