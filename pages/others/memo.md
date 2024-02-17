@@ -182,3 +182,5 @@ To-Be：現状把握
 Issue：課題感、問題の抜き出し
 Solution：対策立案
 Task：実行
+## アーキテクチャ分析
+[参照アーキテクチャ](https://github.com/wso2/reference-architecture)
