@@ -101,7 +101,13 @@
 - [結果整合性]( "結果整合性")
 ## ユースケース駆動開発
 - [ユースケース駆動開発実践ガイド](https://www.amazon.co.jp/-/en/%E3%83%80%E3%82%B0%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0/dp/4798114456/ref=tmm_other_meta_binding_swatch_0?_encoding=UTF8&qid=1695003000&sr=8-1)
-## [テスト駆動設計](https://github.com/TakahitoSuzukiii/docs/wiki/テスト#テスト駆動開発)
+## テスト駆動設計 
+- [テスト駆動開発](https://github.com/TakahitoSuzukiii/docs/wiki/テスト)
+## モジュラーモノリス
+- [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
+- [Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
+- [Evolutionary Architecture](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)
+- [モジュラーモノリスに対する考察](https://qiita.com/YasuhiroKimesawa/items/1b1f8a7c004388d71388)
 ## データ指向設計
 - [DOA]( "DOA")
 - [POA]( "POA")
