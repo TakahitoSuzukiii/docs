@@ -187,3 +187,9 @@ Task：実行
 ### modular monolith
 - [検索結果](https://github.com/search?q=Modular+Monolith&type=repositories&s=stars&o=desc)
 ### 簿記
+### 住居再検討
+ポイントは始発
+#### 渋谷駅
+田園都市線-鷺沼駅
+#### 表参道駅
+-
