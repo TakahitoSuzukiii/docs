@@ -5,6 +5,9 @@
 - [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 - [Awesome-tdd](https://github.com/unicodeveloper/awesome-tdd)
 ## Roadmap
+- []()
+## QA
+- [QA Engineer](https://roadmap.sh/qa)
 - [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#awesome-quality-assurance-roadmap-)
 ## Basic
 - [Software Testing](https://github.com/mfaisalkhatri/awesome-learning?tab=readme-ov-file#software-testing)

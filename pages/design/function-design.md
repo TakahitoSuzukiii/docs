@@ -14,10 +14,25 @@
 - [排他制御](https://ja.wikipedia.org/wiki/%E6%8E%92%E4%BB%96%E5%88%B6%E5%BE%A1 "排他制御")
 - [mutex](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9 "mutex")
 ## 認証・認可・ブロック機能
+- [認可・権限管理の基礎概念](https://masatora.net/blogs/%E8%AA%8D%E5%8F%AF%E3%83%BB%E6%A8%A9%E9%99%90%E7%AE%A1%E7%90%86%E3%81%AE%E5%9F%BA%E7%A4%8E)
+- []()
+- []()
+- [属性ベースのアクセス制御（ABAC）とは？ メリットと適切なアクセス制御モデル](https://www.okta.com/jp/blog/2020/09/attribute-based-access-control-abac/)
+### OAuth2.0
+- [一番分かりやすい OAuth の説明](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
+- [OAuth 2.0 全フローの図解と動画](https://qiita.com/TakahikoKawasaki/items/200951e5b5929f840a1f#%E3%81%BE%E3%81%A8%E3%82%81)
+### SAML2.0
+- []()
+### Google
+- [Google zanzibar](https://www.osohq.com/learn/google-zanzibar)
+### OpenID Connect, OICD
+- [一番分かりやすい OpenID Connect の説明](https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe)
+- []()
+### authlete
 - [authlete](https://qiita.com/search?sort=&q=authlete)
 - [認可のアーキテクチャに関する考察](https://zenn.dev/she_techblog/articles/6eff1f28d107be "認可のアーキテクチャに関する考察")
-- [uuac](https://inria.hal.science/hal-01534764/document "uuac")
-- [uuac](https://inria.hal.science/hal-01284863/document "uuac")
+- [uuac](https://inria.hal.science/hal-01534764/document)
+- [uuac](https://inria.hal.science/hal-01284863/document)
 - [auth0](https://auth0.com/jp)
 - [freee の権限管理基盤マイクロサービスの今を語ろう！](https://developers.freee.co.jp/entry/authorization-management-microservice "freee の権限管理基盤マイクロサービスの今を語ろう！")
 ## 決済機能
