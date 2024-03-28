@@ -11,8 +11,8 @@
 - [カーソルページネーションを実装した話](https://lab.mo-t.com/blog/cursor-pagination-implementation "カーソルページネーションを実装した話")
 ## セッション管理
 - [認証]( "認証")
-- [排他制御](https://ja.wikipedia.org/wiki/%E6%8E%92%E4%BB%96%E5%88%B6%E5%BE%A1 "排他制御")
-- [mutex](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9 "mutex")
+- [排他制御](https://ja.wikipedia.org/wiki/%E6%8E%92%E4%BB%96%E5%88%B6%E5%BE%A1)
+- [mutex](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9)
 ## 認証・認可・ブロック機能
 - [認可・権限管理の基礎概念](https://masatora.net/blogs/%E8%AA%8D%E5%8F%AF%E3%83%BB%E6%A8%A9%E9%99%90%E7%AE%A1%E7%90%86%E3%81%AE%E5%9F%BA%E7%A4%8E)
 - []()
@@ -34,9 +34,9 @@
 - [uuac](https://inria.hal.science/hal-01534764/document)
 - [uuac](https://inria.hal.science/hal-01284863/document)
 - [auth0](https://auth0.com/jp)
-- [freee の権限管理基盤マイクロサービスの今を語ろう！](https://developers.freee.co.jp/entry/authorization-management-microservice "freee の権限管理基盤マイクロサービスの今を語ろう！")
+- [freee の権限管理基盤マイクロサービスの今を語ろう！](https://developers.freee.co.jp/entry/authorization-management-microservice)
 ## 決済機能
-- [外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022](https://dev.classmethod.jp/articles/devio2022-vulnerable-points-and-countermeasures-for-using-external-payment-services/ "外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022")
+- [外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022](https://dev.classmethod.jp/articles/devio2022-vulnerable-points-and-countermeasures-for-using-external-payment-services/)
 - [外部決済サービスを利用した開発の反省と改善 #devio2021](https://dev.classmethod.jp/articles/devio2021-introspection-and-improvement-of-development-with-external-payment-services/ "外部決済サービスを利用した開発の反省と改善 #devio2021")
 - [「ECサイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020](https://dev.classmethod.jp/articles/developers-io-2020-connect-day5-payment-development-flow-with-e-commerce-site/ "「ECサイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020")
 - [ハイヤールーの決済基盤開発において考慮したこと](https://hireroo.io/journal/tech/thinking-about-payment-service-in-hireroo "ハイヤールーの決済基盤開発において考慮したこと")
