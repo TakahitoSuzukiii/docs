@@ -1,6 +1,6 @@
 # 企業の活動（全体像）
-- (企業を支える士業と相関図)[https://www.billy-desk.com/diagram/pro-correlation/]
-- (10士業（8士業）の難易度とは？それぞれの合格率を徹底比較！)[https://kaikeiplus.jp/topic/professional/9004/]
+- [企業を支える士業と相関図](https://www.billy-desk.com/diagram/pro-correlation/)
+- [10士業（8士業）の難易度とは？それぞれの合格率を徹底比較！](https://kaikeiplus.jp/topic/professional/9004/)
 
 # 財務
 
@@ -8,8 +8,8 @@
 
 # 簿記
 ## 参考書
-- (パブロフ簿記)[https://pboki.com]
-- (初めての人向け！ゼロからの簿記　第1回)[https://pboki.com/firstboki/fboki1.html]
+- [パブロフ簿記](https://pboki.com)
+- [初めての人向け！ゼロからの簿記　第1回](https://pboki.com/firstboki/fboki1.html)
 
 ## 簿記とは
 **取引**をメモすること
