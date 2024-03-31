@@ -1,60 +1,3 @@
-# Awesome
-
-- [Awesome AWS](https://github.com/donnemartin/awesome-aws#awesome-aws- "Awesome AWS")
-- [Awesome AWS ECS](https://github.com/nathanpeck/awesome-ecs#readme "Awesome AWS ECS")
-- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme "Awesome AWS Amplify")
-
-# Roadmap
-
-- [Roadmap AWS Best Practices](https://roadmap.sh/best-practices/aws)
-
-# classmethod
-
-- [AWS再入門2022](https://dev.classmethod.jp/referencecat/aws-re-introduction-2020-2 "AWS再入門2022")
-- [CloudFormation入門](https://dev.classmethod.jp/articles/sainyumon-cloudformation/ "CloudFormation入門")
-- [AWS CDK ベストプラクティス](https://aws.amazon.com/jp/blogs/news/best-practices-for-developing-cloud-applications-with-aws-cdk "AWS CDK ベストプラクティス")
-
-# metrics
-
-- [CloudWatch Metricsを利用した監視の基本](https://zenn.dev/tatsuo48/articles/8f436c4a057961 "CloudWatch Metricsを利用した監視の基本")
-- [パーセンタイル](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Percentiles "パーセンタイル")
-- [インスタンスメトリクス](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/viewing_metrics_with_cloudwatch.html#ec2-cloudwatch-metrics "インスタンスメトリクス")
-- [Application Load Balancer](https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/application/load-balancer-cloudwatch-metrics.html "Application Load Balancer")
-- [Amazon ECS Container Insights メトリクス](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/Container-Insights-metrics-ECS.html "Amazon ECS Container Insights メトリクス")
-- [Amazon Aurora](https://docs.aws.amazon.com/ja_jp/AmazonRDS/latest/AuroraUserGuide/Aurora.AuroraMonitoring.Metrics.html "Amazon Aurora")
-
-# cloud formation
-
-- [入門 AWS CloudFormation #1（EC2関係とYAMLの復習編）](https://qiita.com/simonritchie/items/330391e741f394897550)
-- [入門 AWS CloudFormation #2（EC2のセキュリティグループ編）](https://qiita.com/simonritchie/items/a1922199a5b6d131dca9)
-- [入門 AWS CloudFormation #3（EC2とパラメータ編）](https://qiita.com/simonritchie/items/8b1c3046474ca7c6863c)
-- [入門 AWS CloudFormation #4（組み込み関数編）](https://qiita.com/simonritchie/items/5163abaf516902a55f30)
-- [入門 AWS CloudFormation #5（条件設定編）](https://qiita.com/simonritchie/items/45f53b1f3b67303a751d)
-- [入門 AWS CloudFormation #6（出力とエクスポート、及びそれらの別テンプレートでの利用編）](https://qiita.com/simonritchie/items/2dc2b581f50a823861e9)
-
-# AWS AWS Auto Scaling
-
-アプリケーションの負荷に応じて自動的にリソースをスケーリングするためのサービス
-
-## Auto Scalingグループ
-
-複数のEC2インスタンスをグループ化し、リソースの動的な増減を管理する
-
-### グループ設定
-
-| 項目名                                                                    | 説明                                                                                                                                              |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 起動設定（Launch Configuration）または起動テンプレート（Launch Template） | 新しいインスタンスを起動する際に使用される設定。AMI（Amazon Machine Image）、インスタンスタイプ、セキュリティグループ、ユーザーデータなどが含まれ |
-| 最小サイズ（Minimum Size）                                                | グループ内に常に存在する最小のインスタンス数                                                                                                      |
-| 最大サイズ（Maximum Size）                                                | グループ内のインスタンス数の最大値                                                                                                                |
-| 希望サイズ（Desired Capacity）                                            | Auto Scalingグループが保持する希望するインスタンス数                                                                                              |
-
-### スケーリングトリガー
-
-| 項目名                              | 説明                                                                                                                        | 
-| ------------------------ | ------------------------ | 
-| スケールアウト（Scale Out）トリガー | 負荷が増加した場合に新しいインスタンスを追加するトリガー。CPU利用率、ネットワークトラフィックなどの指標が閾値を超えると発動 | 
-| スケールイン（Scale In）トリガー    | 負荷が減少した場合にインスタンスを減らすトリガー。CPU利用率、ネットワークトラフィックなどの指標が閾値を下回ると発動         | 
 
 # AWS Elastic Beanstalk
 
@@ -164,12 +107,31 @@ Elastic Beanstalk専用のコマンドラインツール。他にもAWS CLIやSD
 2. アプリケーションのバージョン（バージョンラベル）を選択し、環境を入力してデプロイする
 
 ### サンプル
+
 - [elastic-beanstalk-samples](https://github.com/awsdocs/elastic-beanstalk-samples?tab=readme-ov-file)
 - [aws-cognito-angular-quickstart](https://github.com/amazon-archives/aws-cognito-angular-quickstart)
 - [go-beanstalk-gin](https://github.com/sudo-suhas/go-beanstalk-gin?tab=readme-ov-file)
 
-##
+# AWS AWS Auto Scaling
 
-# 資格
+アプリケーションの負荷に応じて自動的にリソースをスケーリングするためのサービス
 
-- [約1ヶ月でAWS認定資格を10個取得したエンジニアの学習法まとめ](https://dev.classmethod.jp/articles/aws-certifications-study-methods/)
+## Auto Scalingグループ
+
+複数のEC2インスタンスをグループ化し、リソースの動的な増減を管理する
+
+### グループ設定
+
+| 項目名                                                                    | 説明                                                                                                                                              |
+| ------------------------ | ------------------------ | 
+| 起動設定（Launch Configuration）または起動テンプレート（Launch Template） | 新しいインスタンスを起動する際に使用される設定。AMI（Amazon Machine Image）、インスタンスタイプ、セキュリティグループ、ユーザーデータなどが含まれ |
+| 最小サイズ（Minimum Size）                                                | グループ内に常に存在する最小のインスタンス数                                                                                                      |
+| 最大サイズ（Maximum Size）                                                | グループ内のインスタンス数の最大値                                                                                                                |
+| 希望サイズ（Desired Capacity）                                            | Auto Scalingグループが保持する希望するインスタンス数                                                                                              |
+
+### スケーリングトリガー
+
+| 項目名                              | 説明                                                                                                                        | 
+| ------------------------ | ------------------------ | 
+| スケールアウト（Scale Out）トリガー | 負荷が増加した場合に新しいインスタンスを追加するトリガー。CPU利用率、ネットワークトラフィックなどの指標が閾値を超えると発動 | 
+| スケールイン（Scale In）トリガー    | 負荷が減少した場合にインスタンスを減らすトリガー。CPU利用率、ネットワークトラフィックなどの指標が閾値を下回ると発動         | 
