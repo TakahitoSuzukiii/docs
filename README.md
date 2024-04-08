@@ -111,7 +111,7 @@
 - [Amazon_S3](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/60_cloud/aws/Amazon_S3.md)
 - [AWS_Auto_Scaling](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/60_cloud/aws/AWS_Auto_Scaling.md)
 - [AWS_CloudFormation](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/60_cloud/aws/AWS_CloudFormation.md)
-- [AWS_Elastic_Beanstalk](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/60_cloud/aws/AWS_Elastic_Beanstalk.md)
+- [Amazon_Cognito](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/60_cloud/aws/Amazon_Cognito.md)
 
 ## [gcp](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/60_cloud/gcp)
 
