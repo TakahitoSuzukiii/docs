@@ -10,6 +10,7 @@
 ## 参考書
 - [パブロフ簿記](https://pboki.com)
 - [初めての人向け！ゼロからの簿記　第1回](https://pboki.com/firstboki/fboki1.html)
+- [簿記2級 商業簿記の試験対策まとめ](https://pboki.com/boki2s-top)
 
 ## 簿記とは
 **取引**をメモすること

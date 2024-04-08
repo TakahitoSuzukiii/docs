@@ -107,7 +107,7 @@
 
 ## [gcp](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\60_cloud\gcp)
 
-## [aws](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\60_cloud\azure)
+## [azure](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\60_cloud\azure)
 
 # [プロジェクト管理](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/70_project_management)
 
@@ -117,8 +117,8 @@
 
 # [会計・経理・財務](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/80_finance)
 
-- [財務](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\80_finance\finance.md)
-- [（△）会計](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\80_finance\account.md)
+- [会計](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\80_finance\account.md)
+- [（△）財務](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\80_finance\finance.md)
 - [（△）経理](https://github.com/TakahitoSuzukiii/docs/tree/master/pages\80_finance\bookkeeping.md)
 
 # [その他](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/90_others)
