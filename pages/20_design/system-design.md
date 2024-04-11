@@ -11,6 +11,7 @@
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd#awesome-domain-driven-design- "Awesome Domain-Driven Design")
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives#awesome-open-source-alternatives-to-saas "Awesome open-source alternatives to SaaS")
 - [Awesome ReverseEngineering](https://github.com/alphaSeclab/awesome-reverse-engineering#%E6%89%80%E6%9C%89%E6%94%B6%E9%9B%86%E7%B1%BB%E9%A1%B9%E7%9B%AE "Awesome ReverseEngineering")
+
 > アーキテクチャとは、建築（物）、建築術、建築様式、構造、構成などの意味を持つ英単語
 >
 # ソフトウェア設計・ロードマップ
@@ -30,8 +31,10 @@
 
 # ソフトウェアアーキテクチャ
 
-- [ソフトウェア アーキテクチャと設計の概要](https://www.tutorialspoint.com/software_architecture_design/introduction.htm)
+- [ソフトウェア アーキテクチャと設計の概要](https://www.tutorialspoint.com/software_architecture_design/introduction.html)
+
 > アーキテクチャはシステムの青写真として機能します。これは、システムの複雑さを管理し、コンポーネント間の通信および調整メカニズムを確立するための抽象化を提供します。
+
 - [設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選](https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design)
 
 ## 多層アーキテクチャ
@@ -59,16 +62,18 @@
 >
 > 実は「ヘキサゴナル、オニオン、クリーン」の3つは、本質的には全く同じです。???
 > 責務の区切り方と名称が少しずつ違うだけなんです。???
+
 - [ドメイン駆動設計で実装を始めるのに一番とっつきやすいアーキテクチャは何か[DDD]](https://little-hands.hatenablog.com/entry/2017/10/04/231743 "ドメイン駆動設計で実装を始めるのに一番とっつきやすいアーキテクチャは何か[DDD]")
 
 # オブジェクト指向
 
-- [まとめ](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html "まとめ")
+- [まとめ](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html)
+
 > 継承
 > カプセル化
 > ポリモーフィズム
 > （抽象化）
->
+
 # Web-Framework
 
 - [まとめ](https://qiita.com/tmknom/items/08b69594e32a92bccee5 "まとめ")
@@ -91,11 +96,6 @@
 
 - [ソフトウェアアーキテクチャの基礎](https://www.amazon.co.jp/-/en/Mark-Richards/dp/4873119820/ref=sr_1_1?crid=2G6VBIF0A2NDC&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3&qid=1695004038&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%2Caps%2C253&sr=8-1 "ソフトウェアアーキテクチャの基礎")
 - [マイクロサービスパターン](https://www.amazon.co.jp/Chris-Richardson-ebook/dp/B086JJNDKS/ref=sr_1_1_sspa?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 "マイクロサービスパターン")
-
-# フロントエンド
-
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#frontend-development- "Frontend Development")
-- [マイクロフロントエンド](https://www.amazon.co.jp/-/en/Luca-Mezzalira/dp/4814400020/ref=sr_1_11?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-11 "マイクロフロントエンド")
 
 # クリーンアーキテクチャ
 
@@ -165,12 +165,19 @@
 
 ## フロント
 
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#frontend-development-)
+- [マイクロフロントエンド](https://www.amazon.co.jp/-/en/Luca-Mezzalira/dp/4814400020/ref=sr_1_11?crid=OUY7C88WC4YS&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&qid=1695004057&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%2Caps%2C249&sr=8-11)
+
 - [React Project Structure Best Practices for Scalable Application](https://www.devaradise.com/react-project-folder-structure)
 - [Evolution of a React folder structure and why to group by features right away](https://profy.dev/article/react-folder-structure)
 
 ## バック
 
 - [あああ]()
+
+# 整合性パターン
+
+- [整合性パターン](https://github.com/donnemartin/system-design-primer/tree/master?tab=readme-ov-file#consistency-patterns)
 
 # 書籍
 
