@@ -158,7 +158,6 @@
 
 # データ指向設計
 
-- [あああ]()
 - [データ指向アプリケーションデザイン](https://www.amazon.co.jp/-/en/Martin-Kleppmann/dp/4873118700/ref=sr_1_10?crid=9HPKO9VTKGOF&keywords=%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0&qid=1695001175&sprefix=%E3%81%B6%E3%82%93%E3%81%95%E3%82%93%E3%81%97%E3%81%99%E3%81%A6m%2Caps%2C251&sr=8-10)
 
 # ディレクトリ構成
@@ -172,8 +171,6 @@
 - [Evolution of a React folder structure and why to group by features right away](https://profy.dev/article/react-folder-structure)
 
 ## バック
-
-- [あああ]()
 
 # 整合性パターン
 

@@ -15,6 +15,7 @@
 
 - [ipa](https://www.ipa.go.jp/jinzai/skill-standard/plus-it-ui/itssplus/ps6vr70000001i7c-att/000065601.pdf)
 - [アジャイル開発における12の原則](https://qiita.com/karamage/items/9c98bf3f379f2b16ee47)
+- [Teslaのアジャイル](https://abi-agile.com/tesla_agile/)
 
 ## トランスパレンシー
 

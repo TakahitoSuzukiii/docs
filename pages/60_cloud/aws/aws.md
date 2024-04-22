@@ -52,6 +52,10 @@
 - [Amazon ECS Container Insights メトリクス](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/Container-Insights-metrics-ECS.html)
 - [Amazon Aurora](https://docs.aws.amazon.com/ja_jp/AmazonRDS/latest/AuroraUserGuide/Aurora.AuroraMonitoring.Metrics.html)
 
+# AWS Samples
+
+-[AWS Samples](https://github.com/aws-samples)
+
 # 資格
 
 - [約1ヶ月でAWS認定資格を10個取得したエンジニアの学習法まとめ](https://dev.classmethod.jp/articles/aws-certifications-study-methods/)

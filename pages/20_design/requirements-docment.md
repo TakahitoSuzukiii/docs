@@ -8,10 +8,6 @@
 
 - [フルスタック ソフトウェアの設計とアーキテクチャのロードマップ](https://github.com/stemmlerjs/software-design-and-architecture-roadmap#the-full-stack-software-design-and-architecture-roadmap "フルスタック ソフトウェアの設計とアーキテクチャのロードマップ")
 
-# 基本
-
-- [aaa](aaa)
-
 # ドキュメンテーション
 
 ## ツール
