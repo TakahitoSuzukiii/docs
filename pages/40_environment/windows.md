@@ -14,3 +14,13 @@
 ```
 \
 ```
+
+# 新規作成-ファイル
+
+```
+New-Item bbb.txt
+```
+
+```
+New-Item -Path "./file.txt" -ItemType "file"
+```
