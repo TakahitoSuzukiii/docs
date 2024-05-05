@@ -493,6 +493,41 @@
 - GitHub Pull Requests
 - AWS Toolkit
 - Rainbow CSV
+- PowerShell
+
+# git init
+
+```
+& "C:\Users\TAKAHITO SUZUKI\OneDrive\デスクトップ\dev\start.ps1"
+```
+
+> start.ps1
+
+```
+Write-Output "------------------"
+Write-Output "start"
+Write-Output ""
+
+$CurrentDir = Get-Location
+echo $CurrentDir
+
+cd $CurrentDir
+
+Write-Output ""
+Write-Output "------------------"
+Write-Output "git init"
+Write-Output ""
+
+git init
+git checkout -b master
+New-Item a.md
+git add a.md
+git commit -m 'init'
+
+Write-Output ""
+Write-Output "comp"
+Write-Output "------------------"
+```
 
 # MBTI 診断
 
