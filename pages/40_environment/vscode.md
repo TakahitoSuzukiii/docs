@@ -10,17 +10,8 @@
 shift + alt + F
 ```
 
+# ユーザースニペット
+
 # Todo Tree
 
 - [official](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-
-// aaa
-
-```
-# todo.code-snippets
--------------------
-// TODO:
-// FIXME:
-// NOTE:
-// WARNING:
-```
