@@ -12,6 +12,58 @@
 
 # ユーザースニペット
 
+## setting.json
+
+```
+{
+    "git.ignoreLimitWarning": true,
+    "todo-tree.general.tags": [
+        "NOTE",
+        "WARNING",
+        "TODO",
+        "FIXME",
+        "BUG",
+        "MTG"
+    ],
+    "todo-tree.highlights.customHighlight": {
+        "NOTE": {
+            "icon": "note",
+            "foreground": "#C0C0C0",
+            "iconColour": "#C0C0C0"
+        },
+        "WARNING": {
+            "icon": "alert",
+            "foreground": "red",
+            "iconColour": "red"
+        },
+        "TODO": {
+            "icon": "check-circle-fill",
+            "foreground": "orange",
+            "iconColour": "orange"
+        },
+        "FIXME": {
+            "icon": "flame",
+            "foreground": "yellow",
+            "iconColour": "yellow"
+        },
+        "BUG": {
+            "icon": "bug",
+            "foreground": "#40BA8D",
+            "iconColour": "#40BA8D"
+        },
+        "MTG": {
+            "icon": "feed-discussion",
+            "foreground": "#65BBE9",
+            "iconColour": "#65BBE9"
+        }
+    },
+    "editor.tabCompletion": "onlySnippets",
+    "[markdown]": {
+        "editor.quickSuggestions": true,
+    }
+}
+```
+
 ## global.code-snippets
 
 ```
@@ -97,6 +149,11 @@
 		"body": "# FIXME: ",
 		"description": "修正すること"
 	},
+	"修正すること5": {
+		"prefix": "しゅ",
+		"body": "# FIXME: ",
+		"description": "修正すること"
+	},
 	"バグのことS1": {
 		"prefix": "バグ",
 		"body": "# BUG: ",
@@ -108,11 +165,16 @@
 		"description": "バグのこと"
 	},
 	"バグのことS3": {
-		"prefix": "BUG",
+		"prefix": "ば",
 		"body": "# BUG: ",
 		"description": "バグのこと"
 	},
 	"バグのことS4": {
+		"prefix": "BUG",
+		"body": "# BUG: ",
+		"description": "バグのこと"
+	},
+	"バグのことS5": {
 		"prefix": "B",
 		"body": "# BUG: ",
 		"description": "バグのこと"
@@ -128,12 +190,12 @@
 		"description": "議事録（日付と案件名を入力）"
 	},
 	"議事録（日付と案件名を入力）3": {
-		"prefix": "定例",
+		"prefix": "み",
 		"body": "# MTG: ",
 		"description": "議事録（日付と案件名を入力）"
 	},
 	"議事録（日付と案件名を入力）4": {
-		"prefix": "議事録",
+		"prefix": "定例",
 		"body": "# MTG: ",
 		"description": "議事録（日付と案件名を入力）"
 	},
@@ -232,6 +294,11 @@
 		"body": "- ",
 		"description": "リスト"
 	},
+	"リスト5": {
+		"prefix": "り",
+		"body": "- ",
+		"description": "リスト"
+	},
 	"リンク1": {
 		"prefix": "リンク",
 		"body": "[]()",
@@ -252,13 +319,18 @@
 		"body": "[]()",
 		"description": "リンク"
 	},
+	"リンク5": {
+		"prefix": "り",
+		"body": "[]()",
+		"description": "リンク"
+	},
 	"太字1": {
 		"prefix": "太字",
 		"body": "****",
 		"description": "太字"
 	},
 	"太字2": {
-		"prefix": "ふと",
+		"prefix": "ふ",
 		"body": "****",
 		"description": "太字"
 	},
@@ -283,7 +355,7 @@
 		"description": "打ち消し"
 	},
 	"打消4": {
-		"prefix": "うち",
+		"prefix": "う",
 		"body": "~~~~",
 		"description": "打ち消し"
 	},
@@ -388,6 +460,11 @@
 		"description": "赤色テキスト"
 	},
 	"赤色テキスト4": {
+		"prefix": "あ",
+		"body": "<font color=\"Red\"></font>",
+		"description": "赤色テキスト"
+	},
+	"赤色テキスト5": {
 		"prefix": "red",
 		"body": "<font color=\"Red\"></font>",
 		"description": "赤色テキスト"
@@ -410,33 +487,13 @@
 }
 ````
 
+# vscode 拡張機能
+
+- Git Graph
+- GitHub Pull Requests
+- AWS Toolkit
+- Rainbow CSV
+
 # MBTI 診断
 
 - [無料性格診断テスト](https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD%E3%83%86%E3%82%B9%E3%83%88)
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-##
-
-###
-
-- []()
-- []()
-- []()
-- []()

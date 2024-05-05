@@ -11,7 +11,7 @@
 
 # VB.NET
 
-## 公式Microsoft
+## 公式 Microsoft
 
 - [Visual Basic のドキュメント](https://learn.microsoft.com/ja-jp/dotnet/visual-basic/)
 - [Visual Basic .NET Language Design](https://github.com/dotnet/vblang/blob/main/README.md)
@@ -30,3 +30,12 @@
 # C# チュートリアル
 
 - [C# Introduction](https://www.w3schools.com/cs/cs_intro.php)
+
+# ASP.NET
+
+- [ASP.NET Core](https://dotnet.microsoft.com/ja-jp/apps/aspnet)
+- [ASP.NET MVC パターン](https://dotnet.microsoft.com/ja-jp/apps/aspnet/mvc)
+
+- [ASP.NET Core Identity を使用せずに cookie 認証を使用する](https://learn.microsoft.com/ja-jp/aspnet/core/security/authentication/cookie?view=aspnetcore-8.0)
+- [ASP.NET Core での WS-Federation を使用したユーザー認証](https://learn.microsoft.com/ja-jp/aspnet/core/security/authentication/ws-federation?view=aspnetcore-8.0)
+- [Open Web Interface for .NET (OWIN) と ASP.NET Core](https://learn.microsoft.com/ja-jp/aspnet/core/fundamentals/owin?view=aspnetcore-8.0)
