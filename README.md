@@ -18,7 +18,7 @@
 - [ツール](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/00_technology/tools.md)
 - [その他](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/00_technology/others.md)
 - [ゲーム](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/00_technology/game.md)
-- [生成AI](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/00_technology/generateAI.md)
+- [生成 AI](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/00_technology/generateAI.md)
 
 # [言語とフレームワーク](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/10_languages-and-frameworks)
 
@@ -50,8 +50,7 @@
 - [テスト](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/test.md)
 - [インフラ](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/infrastructure.md)
 - [ネットワーク](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/network.md)
-  
-- [UIデザイン](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/ui-design.md)
+- [UI デザイン](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/ui-design.md)
 
 # [DB](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/30_database)
 
@@ -84,7 +83,7 @@
 - [.NET](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/DotNet_Security.md)
 - [エラーハンドリング](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Error_Handling.md)
 - [ハスワード再設定](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Forgot_Password.md)
-- [HTTPレスポンス](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/HTTP_Security_Response_Headers.md)
+- [HTTP レスポンス](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/HTTP_Security_Response_Headers.md)
 - [Kubernetes](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Kubernetes_Security.md)
 - [マイクロサービス](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Microservices_Security.md)
 - [モバイルアプリケーション](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Mobile_Application_Security.md)
@@ -96,7 +95,7 @@
 - [トランザクション管理](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Transaction_Authorization.md)
 - [脆弱性開示](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Vulnerability_Disclosure)
 - [脆弱性依存管理](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Vulnerable_Dependency_Management.md)
-- [Webサービス](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Web_Service_Security.md)
+- [Web サービス](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_cheat_sheet/Web_Service_Security.md)
 
 # [クラウド](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/60_cloud)
 
