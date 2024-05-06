@@ -5,6 +5,7 @@
 # Git
 
 - [よく使う Git コマンド 19 選！使い方を初心者向けにわかりやすく解説](https://www.sejuku.net/blog/5816#index_id5)
+- [[初心者向け]初めての Git 設定・コマンド操作についてまとめ](https://dev.classmethod.jp/articles/howtogit_forbeginner/)
 
 ##　 stash
 

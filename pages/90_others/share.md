@@ -494,6 +494,7 @@
 - AWS Toolkit
 - Rainbow CSV
 - PowerShell
+- deepl
 
 # git init
 

@@ -24,3 +24,10 @@ New-Item bbb.txt
 ```
 New-Item -Path "./file.txt" -ItemType "file"
 ```
+
+# Office365
+
+- [PowerShell](https://github.com/lazywinadmin/PowerShell)
+- [OneDrive Client for Linux](https://github.com/abraunegg/onedrive?tab=readme-ov-file#onedrive-client-for-linux)
+- []()
+- []()
