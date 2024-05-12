@@ -29,5 +29,7 @@ New-Item -Path "./file.txt" -ItemType "file"
 
 - [PowerShell](https://github.com/lazywinadmin/PowerShell)
 - [OneDrive Client for Linux](https://github.com/abraunegg/onedrive?tab=readme-ov-file#onedrive-client-for-linux)
-- []()
-- []()
+
+# Power Automate
+
+- [Power Automate](https://make.powerautomate.com/environments/91f1c0be-ede8-e7bf-9621-7777179904b6/home)
