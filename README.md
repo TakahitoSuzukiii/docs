@@ -71,7 +71,7 @@
 # [セキュリティ](https://github.com/TakahitoSuzukiii/docs/tree/master/pages/50_security)
 
 - [セキュリティ](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/security.md)
-- [セキュリティ](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_zap_scan.md)
+- [OWASP ZAP スキャン](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/50_security/owasp_zap_scan.md)
 
 ## owasp cheat sheet
 
