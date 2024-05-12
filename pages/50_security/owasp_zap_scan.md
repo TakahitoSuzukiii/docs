@@ -42,6 +42,8 @@ docker-compose down
 -T: ZAPの起動およびパッシブスキャンの実行までの最大時間を指定します。
 ```
 
+- [Command Line](https://www.zaproxy.org/docs/desktop/cmdline/)
+
 ## docker-compose.yml
 
 ```
