@@ -146,3 +146,10 @@
 ## Cookie と session
 
 - [cookie と session について](https://zenn.dev/airiswim/articles/3ea83df67edf5d)
+- [ブラウザ標準データ保管機能まとめ：Cookie / SessionStorage / LocalStorage / IndexedDB](https://zenn.dev/tm35/articles/584ece2d771a4b)
+
+### 公式
+
+- [HTTP Cookie の使用](https://developer.mozilla.org/ja/docs/Web/HTTP/Cookies)
+- [Document.cookie](https://developer.mozilla.org/ja/docs/Web/API/Document/cookie)
+- [Cookies(クッキー), document.cookie](https://ja.javascript.info/cookie)
