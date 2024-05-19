@@ -142,3 +142,7 @@
 
 - [DoS 攻撃/DDoS 攻撃の違いとその対策方法](https://www.kagoya.jp/howto/engineer/infosecurity/dos-ddos/ "DoS攻撃/DDoS攻撃の違いとその対策方法")
   > 攻撃対象のサーバーに対し膨大な量のデータを送信し、サーバーに大きな負荷を与え、サービスを停止させるのが目的
+
+## Cookie と session
+
+- [cookie と session について](https://zenn.dev/airiswim/articles/3ea83df67edf5d)
