@@ -16,6 +16,7 @@
 - [Amazon EC2 Container Service(ECS)の概念整理](https://qiita.com/NewGyu/items/9597ed2eda763bd504d7)
 - [Docker & Docker-Compose の基本的な使い方](https://qiita.com/koka/items/3d3d4ee5680f92a0ad89)
 - [[年末年始にやってみよう]DockerDesktop でイメージ管理を行いながら Docker の知見を高めてみる](https://dev.classmethod.jp/articles/play-docker-with-dockerdesktop/)
+- [AWS CodeBuild を使って Docker イメージをビルドし、Amazon EC2 Container Registry(ECR)へ push する](https://dev.classmethod.jp/articles/20170225-codebuild-docker/)
 
 1. Docker イメージを作成する
 
