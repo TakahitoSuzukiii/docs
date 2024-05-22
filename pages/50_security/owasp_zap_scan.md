@@ -11,7 +11,7 @@
 ### 参考
 
 - [Docker や ECR, ECS, Fargate など、コンテナ周りの AWS 知識を効率的にキャッチアップしたい人のために](https://qiita.com/nyandora/items/0fa064f8a4402939673b)
-- [Amazon ECS で使用するコンテナイメージの作成　](https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/create-container-image.html#use-ecr)
+- [Amazon ECS で使用するコンテナイメージの作成](https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/create-container-image.html#use-ecr)
 - [Amazon Elastic Container Service とは](https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/Welcome.html)
 - [Amazon EC2 Container Service(ECS)の概念整理](https://qiita.com/NewGyu/items/9597ed2eda763bd504d7)
 - [Docker & Docker-Compose の基本的な使い方](https://qiita.com/koka/items/3d3d4ee5680f92a0ad89)
@@ -35,7 +35,7 @@ COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
 # ZAPポート
-EXPOSE 8080
+EXPOSE 8090
 
 ENTRYPOINT ["/entrypoint.sh"]
 ```
@@ -58,15 +58,18 @@ docker pull owasp/zap2docker-bare
 TARGET_URL=${TARGET_URL:-"http://example.com"}
 
 # ZAPをデーモンモードで起動
-zap.sh -daemon -host 0.0.0.0 -port 8080 -config api.addrs.addr.name=.* -config api.addrs.addr.regex=true
+zap.sh -daemon -host 0.0.0.0 -port 8090 -config api.addrs.addr.name=.* -config api.addrs.addr.regex=true
+
+# デーモンが起動するのを待つ
+sleep 10
 
 # スキャン開始
-zap-cli -p 8080 quick-scan --self-contained --start-options '-config api.addrs.addr.name=.* -config api.addrs.addr.regex=true' $TARGET_URL
+zap-cli -p 8090 quick-scan --self-contained --start-options '-config api.addrs.addr.name=.* -config api.addrs.addr.regex=true' $TARGET_URL
 
 # スキャン結果をレポート
-zap-cli -p 8080 report -o /zap/report/report.html -f html
+zap-cli -p 8090 report -o /zap/report/report.html -f html
 
-# コンテナを保持（デバッグ用、必要に応じて削除可能）
+# コンテナを保持（デバッグ用、必要に応じて削除可能） ※本番環境で削除すること
 tail -f /dev/null
 ```
 
@@ -90,7 +93,7 @@ api.addrs.addr.regex=true
 # プロキシ設定
 connection.proxy.enabled=true
 connection.proxy.host=proxy.example.com
-connection.proxy.port=8080
+connection.proxy.port=8090
 
 # スキャン設定
 spider.maxDepth=5

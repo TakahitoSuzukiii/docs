@@ -46,7 +46,6 @@
 - [機能設計](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/function-design.md)
 - [API](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/api.md)
 - [リアーキ・リファクタ](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/refactoring.md)
-
 - [テスト](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/test.md)
 - [インフラ](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/infrastructure.md)
 - [ネットワーク](https://github.com/TakahitoSuzukiii/docs/blob/master/pages/20_design/network.md)
