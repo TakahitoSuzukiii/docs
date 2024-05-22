@@ -161,6 +161,10 @@
 
 - [Security](https://developer.mozilla.org/en-US/docs/Web/Security "Security")
 
+# キャッシュ（フロントサイド）
+
+- [フロントエンドエンジニアが知るべきキャッシュを理解する](https://zenn.dev/kaa_a_zu/articles/f1430cf681b185)
+
 # 管理者機能
 
 - [スマホアプリを作る際に対応しておきたい実装ポイント](https://zenn.dev/unbam/articles/5d977f0d0434ec "スマホアプリを作る際に対応しておきたい実装ポイント")
