@@ -5,9 +5,9 @@
 # ストレージ管理
 
 - [cookie](https://developer.mozilla.org/ja/docs/Web/HTTP/Cookies "cookie")
-- [GDPR対応](https://b-risk.jp/blog/2022/02/gdpr/ "GDPR対応")
-- [ローカルストレージ]( "ローカルストレージ")
-- [セッションストレージ]( "セッションストレージ")
+- [GDPR 対応](https://b-risk.jp/blog/2022/02/gdpr/ "GDPR対応")
+- [ローカルストレージ]("ローカルストレージ")
+- [セッションストレージ]("セッションストレージ")
 
 # ローカライゼイション
 
@@ -16,10 +16,65 @@
 - [シーク法を使ったアクセス](https://use-the-index-luke.com/ja/sql/partial-results/fetch-next-page#fig07_03 "シーク法を使ったアクセス")
 - [カーソルページネーションを実装した話](https://lab.mo-t.com/blog/cursor-pagination-implementation "カーソルページネーションを実装した話")
 
-# セッション管理
+# 排他制御、mutual exclusion
 
 - [排他制御](https://ja.wikipedia.org/wiki/%E6%8E%92%E4%BB%96%E5%88%B6%E5%BE%A1)
 - [mutex](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9)
+- [セマフォ](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9E%E3%83%95%E3%82%A9)
+
+- [トランザクションと排他制御(楽観ロック悲観ロック)の基礎知識](https://zenn.dev/airiswim/articles/ebe313fb39a4c9)
+
+## トランザクション
+
+# ACID 特性
+
+- Atomicity: 原子性
+  すべての操作が完全に実行されるか、一切実行されないかのどちらかであることを保証する。
+- Consistency: 一貫性
+  トランザクションの実行前後でデータベースの整合性が保たれること。
+- Isolation: 独立性,分離性
+  同時に実行されても、トランザクションは互いに影響を及ぼさないこと。
+- Durability: 耐久性
+  トランザクションが完了した後も、変更は永続的で失われないこと。
+
+## Isolation: 独立性,分離性
+
+影響を受けず独立していること。
+
+→ 対処法はロック（排他制御）をかける。ただし、粒度が大事 → つまり、分離レベルの話になる
+
+### リード現象
+
+- ダーティリード: Dirty Reads
+  まだコミットされていない他のトランザクションによって
+  変更されたデータを読み取ることができる問題。
+- ファジーリード: Non-repeatable reads
+  同じトランザクション内で複数回同じクエリを実行すると、
+  異なる結果が得られる問題。
+- ファントムリード: Phantom reads
+  同じクエリを複数回実行した際に、結果に含まれるデータが異なる問題。
+  他のトランザクションの挿入や削除によって影響を受ける。
+
+### 分離レベル
+
+別途、参照・・・
+
+### ロック、排他制御
+
+- 楽観ロック
+  更新対象のデータが、データ取得時と同じ状態であることを確認してから
+  更新することで、データの整合性を保証する手法 - 同じ処理を複数人が同時に実行するケースが少なく、競合が発生しづらい場合
+  ユースケース：処理時間が比較的短い処理の場合
+  → ロックをかけず、データにバージョンを持たせることでデータの整合性を保証する方法
+- 悲観ロック
+  更新対象のデータを取得する際に
+  ロックをかけることことで他のトランザクションから更新されないようにする手法 - 同じ処理を複数人が同時に実行するケースが多く、競合が発生しやすい場合
+  ユースケース：処理時間が長くかかる処理の場合
+  → ロックをかけて（更新対象のデータ=レコード）、他のトランザクションから更新されないようにする
+
+  ※デッドロック
+  同一トランザクション内で複数のレコードを更新するとデッドロックが発生する
+  つまり、2 つの資源が待機状態（ロックされている）のため、処理が進まない
 
 # 認証・認可・ブロック機能
 
@@ -61,7 +116,7 @@
 
 - [外部決済サービスを利用する上での脆弱ポイントと対策 #devio2022](https://dev.classmethod.jp/articles/devio2022-vulnerable-points-and-countermeasures-for-using-external-payment-services/)
 - [外部決済サービスを利用した開発の反省と改善 #devio2021](https://dev.classmethod.jp/articles/devio2021-introspection-and-improvement-of-development-with-external-payment-services/ "外部決済サービスを利用した開発の反省と改善 #devio2021")
-- [「ECサイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020](https://dev.classmethod.jp/articles/developers-io-2020-connect-day5-payment-development-flow-with-e-commerce-site/ "「ECサイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020")
+- [「EC サイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020](https://dev.classmethod.jp/articles/developers-io-2020-connect-day5-payment-development-flow-with-e-commerce-site/ "「ECサイトの決済システムを作るなら知っておきたいこと」というテーマで話をしました #devio2020")
 - [ハイヤールーの決済基盤開発において考慮したこと](https://hireroo.io/journal/tech/thinking-about-payment-service-in-hireroo "ハイヤールーの決済基盤開発において考慮したこと")
 
 # stripe
@@ -81,9 +136,9 @@
 # ビデオ通話機能
 
 - [WebRTC](https://developer.mozilla.org/ja/docs/Web/API/WebRTC_API "WebRTC")
-- [WebRTC概要](https://zenn.dev/yuki_uchida/books/c0946d19352af5/viewer/0e7daa "WebRTC概要")
+- [WebRTC 概要](https://zenn.dev/yuki_uchida/books/c0946d19352af5/viewer/0e7daa "WebRTC概要")
 
-# webゲーム開発
+# web ゲーム開発
 
 - [ウェブ用のゲーム開発入門](https://developer.mozilla.org/ja/docs/Games/Introduction "ウェブ用のゲーム開発入門")
 - [【Go/GCP】ライブゲーム「あてっこ！ぷにまるず」を支えるバックエンド技術](https://tech.mirrativ.stream/entry/2023/07/28/100000 "【Go/GCP】ライブゲーム「あてっこ！ぷにまるず」を支えるバックエンド技術")
@@ -93,8 +148,8 @@
 - [Wikipedia](https://ja.wikipedia.org/wiki/%E5%85%A8%E6%96%87%E6%A4%9C%E7%B4%A2#:~:text=%E5%85%A8%E6%96%87%E6%A4%9C%E7%B4%A2%EF%BC%88%E3%81%9C%E3%82%93%E3%81%B6%E3%82%93%E3%81%91%E3%82%93,%E6%84%8F%E5%91%B3%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E3%80%82 "Wikipedia")
 - [デージーネット](https://www.designet.co.jp/ossinfo/elasticsearch/ "デージーネット")
 - [Amazon RDS for MySQL と全文検索](https://dev.classmethod.jp/articles/amazon-rds-for-mysql-fulltext-search/ "Amazon RDS for MySQL と全文検索")
-- [全文検索エンジン「Elasticsearch」の概要とprismatixでの活用事例 #devio2022](https://dev.classmethod.jp/articles/devio2022-elasticsearch-prismatix/ "全文検索エンジン「Elasticsearch」の概要とprismatixでの活用事例 #devio2022")
-- [全文検索SaaSのAlgoliaを使って、DynamoDBのデータを柔軟に検索する](https://dev.classmethod.jp/articles/algolia-dynamodb-search/ "全文検索SaaSのAlgoliaを使って、DynamoDBのデータを柔軟に検索する")
+- [全文検索エンジン「Elasticsearch」の概要と prismatix での活用事例 #devio2022](https://dev.classmethod.jp/articles/devio2022-elasticsearch-prismatix/ "全文検索エンジン「Elasticsearch」の概要とprismatixでの活用事例 #devio2022")
+- [全文検索 SaaS の Algolia を使って、DynamoDB のデータを柔軟に検索する](https://dev.classmethod.jp/articles/algolia-dynamodb-search/ "全文検索SaaSのAlgoliaを使って、DynamoDBのデータを柔軟に検索する")
 
 # 機械学習
 

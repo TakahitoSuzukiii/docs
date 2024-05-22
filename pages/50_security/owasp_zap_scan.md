@@ -15,10 +15,13 @@
 - [Amazon Elastic Container Service とは](https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/Welcome.html)
 - [Amazon EC2 Container Service(ECS)の概念整理](https://qiita.com/NewGyu/items/9597ed2eda763bd504d7)
 - [Docker & Docker-Compose の基本的な使い方](https://qiita.com/koka/items/3d3d4ee5680f92a0ad89)
+- [[年末年始にやってみよう]DockerDesktop でイメージ管理を行いながら Docker の知見を高めてみる](https://dev.classmethod.jp/articles/play-docker-with-dockerdesktop/)
 
 1. Docker イメージを作成する
 
 ### Dockerfile
+
+- [Dockerfile の ENTRYPOINT と CMD の違いは何でしょうか。](https://qiita.com/Thang_TQ/items/acad14dbbc0500fc9d5f)
 
 ```
 FROM owasp/zap2docker-stable
@@ -42,7 +45,7 @@ ENTRYPOINT ["/entrypoint.sh"]
 docker pull owasp/zap2docker-bare
 ```
 
-### entrypoint.sh
+### entrypoint.sh ※再検討・要見直し箇所
 
 - [ZAP CLI](https://github.com/Grunny/zap-cli)
 - [Command Line](https://www.zaproxy.org/docs/desktop/cmdline/)
@@ -76,7 +79,7 @@ tail -f /dev/null
 - API アクセスを許可するアドレスリストにおいて正規表現を使用するかどうかを指定します。
 - true は、正規表現を有効にする設定です。
 
-### zap.conf
+### zap.conf ※再検討・要見直し箇所
 
 ```
 # API アクセス設定
