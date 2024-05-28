@@ -599,3 +599,52 @@ WEBSSO と同じ
 【目標】
 【達成水準】
 【取り組み】
+
+# 情報漏洩テスト
+
+## 情報収集
+
+- [Web サーバーのメタファイルに情報漏洩がないか確認する](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage)
+- [Web ページのコンテンツに情報漏洩がないか確認する](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/05-Review_Web_Page_Content_for_Information_Leakage)
+
+## 認証
+
+- [脆弱なパスワードの変更またはリセット機能のテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/09-Testing_for_Weak_Password_Change_or_Reset_Functionalities)
+- [暗号化されていないチャネルを介して送信される機密情報のテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/03-Testing_for_Sensitive_Information_Sent_via_Unencrypted_Channels)
+
+- [既定の資格情報のテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/02-Testing_for_Default_Credentials)
+  OK
+
+- [脆弱なロックアウトメカニズムのテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/03-Testing_for_Weak_Lock_Out_Mechanism)
+  OK
+
+- [認証スキーマをバイパスするためのテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/04-Testing_for_Bypassing_Authentication_Schema)
+  テストする
+
+- [脆弱なパスワード記憶のテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/05-Testing_for_Vulnerable_Remember_Password)
+  テストする
+
+- [脆弱なパスワードポリシーのテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/07-Testing_for_Weak_Password_Policy)
+  OK
+
+- [セッション管理スキーマのテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/01-Testing_for_Session_Management_Schema)
+  余裕があれば、テストする
+
+- [公開セッション変数のテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/04-Testing_for_Exposed_Session_Variables)
+  セッションが変わる（ログアウト、セッションタイムアウト）たびに、セッション ID が切り替わることを確認する。
+
+- [ログアウト機能のテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/06-Testing_for_Logout_Functionality)
+  シングルサインアウトのテスト：シングルサインオン状態で、IDP 側でサインアウトする。どうなるのが、正しいか？
+  → ユーザーサイトは、ログアウト？
+  → ユーザーサイトでログイン継続中の場合、ユーザーサイトでログアウト実行後、再認証が実行されるか、検証
+
+- [テストセッションタイムアウト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/07-Testing_Session_Timeout)
+  → ログアウトと一緒
+
+- [同時セッションのテスト](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/11-Testing_for_Concurrent_Sessions)
+  プライベートブラウジングモードでセッション ID を収集し、最初に生成されたセッション ID で認証に成功するか、テストする
+  同じ IP からの複数のセッションでのテスト
+  異なる IP からの複数のセッションでのテスト
+
+- []()
+- []()
