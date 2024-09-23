@@ -28,6 +28,10 @@
 
 ## SciPy
 
+## Pytest
+
+- [awesome-pytest](https://github.com/augustogoulart/awesome-pytest)
+
 ## pypi
 
 - [pypi](https://pypi.org/)
