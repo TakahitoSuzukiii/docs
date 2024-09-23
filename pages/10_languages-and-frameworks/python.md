@@ -16,6 +16,13 @@
 - [w3shool Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
 - [w3shool SciPy Tutorial](https://www.w3schools.com/python/scipy/index.php)
 
+## WhirlwindTourOfPython
+
+- [WhirlwindTourOfPython](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb)
+- [WhirlwindTourOfPython github](https://github.com/jakevdp/WhirlwindTourOfPython)
+- [WhirlwindTourOfPython github jakevdp](https://jakevdp.github.io/WhirlwindTourOfPython/00-introduction.html)
+- [WhirlwindTourOfPython Japanese translation qiita](https://qiita.com/tags/whirlwindtourofpython)
+
 ## Django
 
 - [Awesome Django](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#awesome-django-)
