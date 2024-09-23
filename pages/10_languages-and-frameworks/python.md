@@ -31,6 +31,7 @@
 ## Pytest
 
 - [awesome-pytest](https://github.com/augustogoulart/awesome-pytest)
+- [search pyhon pytest sample](https://github.com/search?q=python+pytest+sample&type=repositories&s=stars&o=desc)
 
 ## pypi
 
