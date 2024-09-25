@@ -649,9 +649,15 @@ WEBSSO と同じ
 # vscode memo
 
 - [Visual Studio Code キーボード ショートカット](https://qiita.com/oruponu/items/ae9c720d4522c1606daf#%E4%B8%80%E8%88%AC)
+- [Testing](https://code.visualstudio.com/docs/editor/testing)
+- [VS Code で Python の単体テストをしてみよう](https://qiita.com/chicken_tatsuta/items/32672134ca27099b7ab2)
+- [Visual Studio Code で Python のテストを実行する方法](https://zenn.dev/yutabeee/articles/6f601978f032f3)
 
 #
 
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
