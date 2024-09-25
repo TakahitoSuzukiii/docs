@@ -646,5 +646,12 @@ WEBSSO と同じ
   同じ IP からの複数のセッションでのテスト
   異なる IP からの複数のセッションでのテスト
 
+# vscode memo
+
+- [Visual Studio Code キーボード ショートカット](https://qiita.com/oruponu/items/ae9c720d4522c1606daf#%E4%B8%80%E8%88%AC)
+
+#
+
+- []()
 - []()
 - []()
