@@ -795,13 +795,16 @@ conftest.py に定義されたフィクスチャが正しく動作するか確�
 
 - [Pydantic](https://github.com/pydantic/pydantic)
 
-### 追加
+### 追加 pytest
 
 - [Awesome pytest](https://github.com/augustogoulart/awesome-pytest)
 - [Awesome pytest speedup](https://github.com/zupo/awesome-pytest-speedup)
 
-- [aaa](aaa)
-- [aaa](aaa)
+### 追加 CheatSheet
+
+- [The only Playwright Test Automation using Python Cheatsheet you need](https://github.com/Gerry-Aballa/Playwright-Py-Cheatsheet)
+- [Python-Automation-WebDriver](https://github.com/reverse-developer/Python-Automation-WebDriver-CheatSheet)
+
 - [aaa](aaa)
 - [aaa](aaa)
 - [aaa](aaa)
