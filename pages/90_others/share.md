@@ -657,40 +657,40 @@ WEBSSO と同じ
 
 ## fixture を一覧で確認する
 
-'''
+```
 pytest --fixtures
-'''
+```
 
 ## fixture を一覧で確認する
 
-'''
+```
 pytest -v # 詳細を表示
 pytest --tb=long # 詳細を表示
-'''
+```
 
-'''
+```
 pytest --tb=long
-'''
+```
 
 auto: 自動選択（デフォルト）
 long: 詳細なトレースバック
 short: 簡潔なトレースバック
 no: トレースバックを表示しない
 
-'''
+```
 pytest -k "test_function" # 特定のテストを実施
-'''
+```
 
-'''
+```
 pytest --setup-show # どの順番でテストが行われたか、知るコマンド
 pytest --setup-show -v
-'''
+```
 
 ## マークしたテストのみ、実行する
 
 login.py
 
-'''
+```
 import pytest
 
 @pytest.mark.login
@@ -703,11 +703,11 @@ assert False
 
 def test_signup(): # サインアップ関連のテスト（ログインには関連しない）
 assert True
-'''
+```
 
-'''
+```
 pytest -v --tb=long -m "login" #テストを指定して、詳細を表示
-'''
+```
 
 pytest.ini
 
@@ -720,7 +720,7 @@ regression: 回帰テスト
 smoke: 簡易テスト
 """
 
-'''
+```
 pytestmark = pytest.mark.login # ファイルレベルでのマーク適用
 
 def test_login_success():
@@ -728,39 +728,43 @@ assert True
 
 def test_login_failure():
 assert False
-'''
+```
 
-'''
+```
 pytest -v --tb=long -m "login"
 pytest -m "login" --pdb -v --tb=long tests/
 pytest -m "login" --pdb --setup-show -v --tb=long tests/
-'''
+```
 
 ## セットアップ。mark デコレーション
 
 テストメソッドに異なる引数を渡すためのデコレーション
 
-'''
+```
 @pytest.mark.parametrize
-'''
+```
 
 特定のテストをスキップするためのデコレーションです。
-'''
+
+```
 @pytest.mark.skip(reason="This test is temporarily disabled.")
-'''
+```
 
 条件付きでテストをスキップするためのデコレーションです。
-'''
+
+```
 @pytest.mark.skipif(sys.platform == "win32", reason="Does not run on Windows.")
-'''
+```
 
 予期される失敗を示すためのデコレーションです。失敗した場合でも、テストは成功として扱われます。
-'''
+
+```
 @pytest.mark.xfail(reason="This test is expected to fail.")
-'''
+```
 
 テストの実行順序を指定するためのデコレーションです。これを使用するには、pytest-ordering プラグインをインストールする必要があります。
-'''
+
+```
 @pytest.mark.order(1)
 class TestOrderExample:
 def test_one(self):
@@ -770,7 +774,7 @@ assert True
     def test_two(self):
         assert True
 
-'''
+```
 
 フィクスチャが正しく定義されているか確認:
 
@@ -786,3 +790,19 @@ conftest.py に定義されたフィクスチャが正しく動作するか確�
 - [How to invoke pytest](https://docs.pytest.org/en/7.1.x/how-to/usage.html#usage)
 - [テスト関数を属性でマークする方法](https://docs.pytest.org/en/7.1.x/how-to/mark.html#mark)
 - [例とカスタマイズのコツ](https://docs.pytest.org/en/7.1.x/example/index.html)
+
+### データバリデーター
+
+- [Pydantic](https://github.com/pydantic/pydantic)
+
+### 追加
+
+- [Awesome pytest](https://github.com/augustogoulart/awesome-pytest)
+- [Awesome pytest speedup](https://github.com/zupo/awesome-pytest-speedup)
+
+- [aaa](aaa)
+- [aaa](aaa)
+- [aaa](aaa)
+- [aaa](aaa)
+- [aaa](aaa)
+- [aaa](aaa)
