@@ -805,6 +805,133 @@ conftest.py に定義されたフィクスチャが正しく動作するか確�
 - [The only Playwright Test Automation using Python Cheatsheet you need](https://github.com/Gerry-Aballa/Playwright-Py-Cheatsheet)
 - [Python-Automation-WebDriver](https://github.com/reverse-developer/Python-Automation-WebDriver-CheatSheet)
 
+ページの読み込みを待つ
+JavaScript の document.readyState を使用して、「ページが完全に読み込まれた」ことを確認できる
+
+```
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+# WebDriverのセットアップ（例としてChromeを使用）
+driver = webdriver.Chrome()
+
+try:
+    # ページにアクセス
+    driver.get("https://www.example.com")
+
+    # ページが完全に読み込まれるまで待機
+    WebDriverWait(driver, 10).until(
+        lambda d: d.execute_script("return document.readyState") == "complete"
+    )
+
+    # ページが完全に読み込まれた後、次の操作を実行
+    # 例えば、特定のボタンがクリック可能になるまで待機してクリック
+    button = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "button-id"))
+    )
+    button.click()
+
+    # 追加の操作...
+
+finally:
+    # ブラウザを閉じる
+    driver.quit()
+```
+
+```
+# ページにアクセス
+driver.get("https://www.example.com")
+
+# 特定の要素が表示されるのを待機
+element = WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located((By.ID, "element-id"))
+)
+
+# 次の操作（例：要素のテキストを取得）
+print(element.text)
+```
+
+### リトライ戦略（Retry Strategy）
+
+リトライ戦略は、外部要因や一時的なエラー（ネットワークの不安定さや非同期操作の遅延など）によってテストが失敗した場合に、再試行する仕組みです。リトライを適切に実装することで、テストの安定性を高め、無駄なテスト失敗を防ぎます。
+
+1. 基本的なリトライの考え方
+   一時的なエラーやタイミング問題を防ぐために、特定の操作が失敗した際に一定の時間待って再試行する仕組みです。
+   特に、ネットワーク遅延や外部 API へのアクセスが原因でテストが失敗することがある場合、リトライ戦略は有効です。
+
+```
+pip install pytest-rerunfailures
+```
+
+```
+[pytest]
+addopts = --reruns 3 --reruns-delay 5
+```
+
+```
+import pytest
+from selenium import webdriver
+
+@pytest.mark.flaky(reruns=3, reruns_delay=5)
+def test_example():
+    driver = webdriver.Chrome()
+    driver.get("https://www.example.com")
+    assert "Example Domain" in driver.title
+    driver.quit()
+```
+
+#### 別パターン
+
+```
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+
+def retry_click(driver, locator, max_retries=3, delay=2):
+    retries = 0
+    while retries < max_retries:
+        try:
+            # ボタンがクリック可能になるのを待機
+            button = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable(locator)
+            )
+            button.click()
+            break
+        except Exception as e:
+            retries += 1
+            print(f"Retry {retries}/{max_retries}: {str(e)}")
+            time.sleep(delay)  # リトライの間に待機
+
+# 使用例
+driver = webdriver.Chrome()
+driver.get("https://www.example.com")
+retry_click(driver, (By.ID, "button-id"))
+driver.quit()
+```
+
+### ロケータ戦略（Locator Strategy）
+
+ロケータ戦略は、Selenium テストで要素をどのように特定するかを指します。要素のロケータを適切に選択することで、テストの信頼性が大幅に向上し、UI の変更によってテストが壊れるリスクを最小限に抑えられます。
+
+1. ロケータ戦略の基本
+   Selenium では、要素を特定するために以下の方法を使用します。
+
+ID: By.ID
+最も安定したロケータです。id 属性は一意であるべきなので、他の要素と競合することなく確実に要素を特定できます。
+推奨: 常に可能であれば id を使う。
+Name: By.NAME
+name 属性も安定していますが、複数の要素で同じ name を使用する場合があるため、ID よりも安定性が低い場合があります。
+CSS セレクタ: By.CSS_SELECTOR
+複雑な条件で要素を特定できる柔軟な方法です。ID や class を組み合わせたり、子要素を特定する場合に有用です。
+注意点: HTML 構造が変更された場合に壊れやすい。
+XPath: By.XPATH
+非常に強力ですが、XPath は他のロケータに比べてパフォーマンスが悪くなる場合があります。また、要素のパスが変更されるとテストが壊れやすいです。
+推奨: 可能であれば XPath は避け、CSS セレクタや ID を優先する。
+
 - [aaa](aaa)
 - [aaa](aaa)
 - [aaa](aaa)
