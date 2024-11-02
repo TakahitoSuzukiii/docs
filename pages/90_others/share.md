@@ -932,7 +932,9 @@ XPath: By.XPATH
 非常に強力ですが、XPath は他のロケータに比べてパフォーマンスが悪くなる場合があります。また、要素のパスが変更されるとテストが壊れやすいです。
 推奨: 可能であれば XPath は避け、CSS セレクタや ID を優先する。
 
-- [aaa](aaa)
-- [aaa](aaa)
+## it passport
+
+- [キタミ式イラスト IT 塾 IT パスポート 令和 06 年 サポートページ](https://gihyo.jp/book/2023/978-4-297-13805-9/support)
+- [過去問題（問題冊子・解答例）](https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/questions.html)
 - [aaa](aaa)
 - [aaa](aaa)
