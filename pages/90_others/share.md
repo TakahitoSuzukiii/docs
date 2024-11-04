@@ -936,5 +936,11 @@ XPath: By.XPATH
 
 - [キタミ式イラスト IT 塾 IT パスポート 令和 06 年 サポートページ](https://gihyo.jp/book/2023/978-4-297-13805-9/support)
 - [過去問題（問題冊子・解答例）](https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/questions.html)
+
+## it passport
+
+- [aaa](aaa)
+- [aaa](aaa)
+- [aaa](aaa)
 - [aaa](aaa)
 - [aaa](aaa)
