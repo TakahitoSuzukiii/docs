@@ -26,6 +26,11 @@
 - [バックエンドのベストプラクティス](https://github.com/Sairyss/backend-best-practices#backend-best-practices)
 - [Company engineering blogs](https://github.com/donnemartin/system-design-primer#company-engineering-blogs)
 
+# サーバーレスアーキテクチャ
+
+- [サーバーレスブループリントで開発を加速するためのベストプラクティス](https://aws.amazon.com/jp/blogs/infrastructure-and-automation/best-practices-for-accelerating-development-with-serverless-blueprints/)
+- [AWS Lambda を使用した進化的アーキテクチャの開発](https://aws.amazon.com/jp/blogs/compute/developing-evolutionary-architecture-with-aws-lambda/)
+
 # オープンソースの代替手段
 
 - [opensourcealternative](https://www.opensourcealternative.to/ "opensourcealternative")
